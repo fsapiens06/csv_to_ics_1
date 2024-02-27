@@ -1,0 +1,972 @@
+主旨,開始日期,星期,開始時間,結束日期,結束時間,全天,提醒開啟關閉,提醒日期,提醒時間,會議召集人,出席者,列席者,會議資源,地點,私人,津貼,帳目資訊,敏感度,描述,優先順序,類別,顯示時間為,說明
+"[Introduction to Surgery]:Intro_lec_17, 臨床外科學的介紹及外科學倫理觀,張世慶",9/11/2023,一,10:10,9/11/2023,11:00,FALSE,FALSE,9/19/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張世慶
+"[Introduction to Surgery]:Intro_lec_31, Wound Healing,彭成康",9/11/2023,一,11:10,9/11/2023,12:00,FALSE,FALSE,9/19/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,彭成康
+"[Pharmacology]:Intro_lec_04, An introduction to pharmacology : PD,嚴錦城",9/11/2023,一,13:20,9/11/2023,14:10,FALSE,FALSE,9/19/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Pharmacology]:Intro_lec_03, An introduction to pharmacology: PK,胡德民",9/11/2023,一,14:20,9/11/2023,15:10,FALSE,FALSE,9/19/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,胡德民
+"[Rehabilitation Medicine]:Intro_lec_01, Introduction to Rehabilitation (modalities and therapueitc exercise),高崇蘭",9/11/2023,一,15:30,9/11/2023,16:20,FALSE,FALSE,9/19/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,高崇蘭
+"[Rehabilitation Medicine]:Intro_lec_02, Introduction to Rehabilitation (Prosthesis and orthosis),張誌剛",9/11/2023,一,16:30,9/11/2023,17:20,FALSE,FALSE,9/19/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張誌剛
+"[PAS]:PAS_01, 醫療與社會(A時段),-",9/12/2023,二,8:00,9/12/2023,8:50,FALSE,FALSE,9/20/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_01, 醫療與社會(A時段),-",9/12/2023,二,9:00,9/12/2023,9:50,FALSE,FALSE,9/20/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Radiotherapy]:Intro_lec_14, Basic principles of radiation therapy, treatment planning and techniques,劉裕明",9/12/2023,二,10:10,9/12/2023,11:00,FALSE,FALSE,9/20/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉裕明
+"[Pharmacology]:Intro_lec_05, Drug development & clinical trial,林滿玉",9/12/2023,二,11:10,9/12/2023,12:00,FALSE,FALSE,9/20/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林滿玉
+"[Pathology&Laboratory]:Intro_lec_27, Cellular pathology,許志怡",9/12/2023,二,13:20,9/12/2023,14:10,FALSE,FALSE,9/20/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許志怡
+"[Pathology&Laboratory]:Intro_lec_28, Cellular pathology,許志怡",9/12/2023,二,14:20,9/12/2023,15:10,FALSE,FALSE,9/20/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許志怡
+"[Pathology&Laboratory]:Intro_lec_29, Cellular pathology,許志怡",9/12/2023,二,15:30,9/12/2023,16:20,FALSE,FALSE,9/20/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許志怡
+"[Pathology&Laboratory]:Intro_lec_30, Cellular pathology,許志怡",9/12/2023,二,16:30,9/12/2023,17:20,FALSE,FALSE,9/20/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許志怡
+"[Imaging Diagnosis]:Intro_lec_11, Ultrasonography Application in soft  tissue/ small parts,邱宏仁",9/13/2023,三,10:10,9/13/2023,11:00,FALSE,FALSE,9/21/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,邱宏仁
+"[Pharmacology]:Intro_lec_08, Cholinergic pharmacology,霍德義",9/13/2023,三,11:10,9/13/2023,12:00,FALSE,FALSE,9/21/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,霍德義
+"[Otolarynglolgy]:Ent_15, Clinical Audiology,楊宗翰",9/13/2023,三,13:20,9/13/2023,14:10,FALSE,FALSE,9/21/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊宗翰
+"[Otolarynglolgy]:Ent_16, Clinical Audiology,楊宗翰",9/13/2023,三,14:20,9/13/2023,15:10,FALSE,FALSE,9/21/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊宗翰
+"[Pharmacology]:Intro_lec_16, Adrenergic pharmacology (1),嚴錦城",9/13/2023,三,15:30,9/13/2023,16:20,FALSE,FALSE,9/21/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Pharmacology]:Intro_lec_32, Adrenergic pharmacology (2),嚴錦城",9/13/2023,三,16:30,9/13/2023,17:20,FALSE,FALSE,9/21/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Imaging Diagnosis]:Intro_lec_25, Introduction to radiology-1,吳銘庭",9/14/2023,四,10:10,9/14/2023,11:00,FALSE,FALSE,9/22/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳銘庭
+"[Imaging Diagnosis]:Intro_lec_26, Introduction to radiology-2,吳銘庭",9/14/2023,四,11:10,9/14/2023,12:00,FALSE,FALSE,9/22/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳銘庭
+"[Otolarynglolgy]:Ent_07, Otoneurology,丁冠中",9/14/2023,四,13:20,9/14/2023,14:10,FALSE,FALSE,9/22/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,丁冠中
+"[Otolarynglolgy]:Ent_08, Otoneurology,丁冠中",9/14/2023,四,14:20,9/14/2023,15:10,FALSE,FALSE,9/22/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,丁冠中
+"[Nuclear medicine]:Intro_lec_09, Molecular Nuclear medicine,諶鴻遠",9/14/2023,四,15:30,9/14/2023,16:20,FALSE,FALSE,9/22/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,諶鴻遠
+"[Nuclear medicine]:Intro_lec_10, Clinical  Nuclear medicine,王昱豐",9/14/2023,四,16:30,9/14/2023,17:20,FALSE,FALSE,9/22/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王昱豐
+"[Introduction to Surgery]:Intro_lec_23, Surgical Critical Care,陳柏霖",9/15/2023,五,8:00,9/15/2023,8:50,FALSE,FALSE,9/23/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳柏霖
+"[Introduction to Surgery]:Intro_lec_24, Pediatric Surgery,蔡昕霖",9/15/2023,五,9:00,9/15/2023,9:50,FALSE,FALSE,9/23/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡昕霖
+"[Imaging Diagnosis]:Intro_lec_34, Imagings of heart and vessels,吳銘庭",9/15/2023,五,10:10,9/15/2023,11:00,FALSE,FALSE,9/23/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳銘庭
+"[Imaging Diagnosis]:Intro_lec_35, Imagings of heart and vessels,吳銘庭",9/15/2023,五,11:10,9/15/2023,12:00,FALSE,FALSE,9/23/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳銘庭
+"[Pharmacology]:Intro_lec_36, Lipid-lowering drugs,李新城",9/15/2023,五,13:20,9/15/2023,14:10,FALSE,FALSE,9/23/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李新城
+"[Pharmacology]:Intro_lec_37, Agents used in disorders of blood,李新城",9/15/2023,五,14:20,9/15/2023,15:10,FALSE,FALSE,9/23/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李新城
+"[PAS]:PAS_02, 醫療與社會(A時段),-",9/19/2023,二,8:00,9/19/2023,8:50,FALSE,FALSE,9/27/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_02, 醫療與社會(A時段),-",9/19/2023,二,9:00,9/19/2023,9:50,FALSE,FALSE,9/27/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Pathology&Laboratory]:CV_lec_53, Blood vessels,許志怡",9/19/2023,二,13:20,9/19/2023,14:10,FALSE,FALSE,9/27/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許志怡
+"[Pathology&Laboratory]:CV_lec_54, Hemodynamic, Thrombosis and Shock,梁文議",9/19/2023,二,14:20,9/19/2023,15:10,FALSE,FALSE,9/27/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,梁文議
+"[Pathology&Laboratory]:CV_lec_55, The heart,張富邦",9/19/2023,二,15:30,9/19/2023,16:20,FALSE,FALSE,9/27/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Pathology&Laboratory]:CV_lec_56, The heart,張富邦",9/19/2023,二,16:30,9/19/2023,17:20,FALSE,FALSE,9/27/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Clinical Skill]:Intro_lec_22, 臨床醫學簡介區段考試,醫學系助教",9/20/2023,三,10:10,9/20/2023,11:00,FALSE,FALSE,9/28/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,醫學系助教
+"[Clinical Skill]:Intro_lec_22, 臨床醫學簡介區段考試,醫學系助教",9/20/2023,三,11:10,9/20/2023,12:00,FALSE,FALSE,9/28/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,醫學系助教
+"[Otolarynglolgy]:Ent_09, Diseases of External Ear and Middle Ear,王懋哲",9/20/2023,三,13:20,9/20/2023,14:10,FALSE,FALSE,9/28/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王懋哲
+"[Otolarynglolgy]:Ent_10, Diseases of External Ear and Middle Ear,王懋哲",9/20/2023,三,14:20,9/20/2023,15:10,FALSE,FALSE,9/28/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王懋哲
+"[Cardiovascular medicine]:CV_lec_01, Introduction to General Cardiology,陳震寰",9/21/2023,四,9:00,9/21/2023,9:50,FALSE,FALSE,9/29/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳震寰
+"[Cardiovascular medicine]:CV_lec_03, Pericardial Diseases,胡瑜峰",9/21/2023,四,10:10,9/21/2023,11:00,FALSE,FALSE,9/29/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,胡瑜峰
+"[Imaging Diagnosis]:CV_lec_14, Ultrasonography Application in whole abdomen,周宜宏",9/21/2023,四,11:10,9/21/2023,12:00,FALSE,FALSE,9/29/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,周宜宏
+"[Otolarynglolgy]:Ent_17, Anatomy and Physiology of Nose and Paranasal Sinuses,黃毓雯",9/21/2023,四,13:20,9/21/2023,14:10,FALSE,FALSE,9/29/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃毓雯
+"[Otolarynglolgy]:Ent_18, Anatomy and Physiology of Nose and Paranasal Sinuses,黃毓雯",9/21/2023,四,14:20,9/21/2023,15:10,FALSE,FALSE,9/29/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃毓雯
+"[Cardiovascular medicine]:CV_lec_29, Clinical skill總論-全身健檢,黃柏勳",9/21/2023,四,15:30,9/21/2023,16:20,FALSE,FALSE,9/29/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃柏勳
+"[Cardiovascular medicine]:CV_lec_27, SKILL-循環系統臨床技巧,黃少嵩",9/21/2023,四,16:30,9/21/2023,17:20,FALSE,FALSE,9/29/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃少嵩
+"[Cardiovascular medicine]:CV_lec_32, 心電圖判讀(I),余文鍾",9/22/2023,五,9:00,9/22/2023,9:50,FALSE,FALSE,9/30/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,余文鍾
+"[Cardiovascular medicine]:CV_lec_33, 心電圖判讀(II),張俊欽",9/22/2023,五,10:10,9/22/2023,11:00,FALSE,FALSE,9/30/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張俊欽
+"[Cardiovascular medicine]:CV_lec_36, 心電圖判讀(III),林晉宇",9/22/2023,五,11:10,9/22/2023,12:00,FALSE,FALSE,9/30/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林晉宇
+PBL-CV01-I,9/22/2023,五,13:20,9/22/2023,14:10,FALSE,FALSE,9/30/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-CV01-I,9/22/2023,五,14:20,9/22/2023,15:10,FALSE,FALSE,9/30/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Cardiovascular medicine]:CV_lec_17, Atherosclerosis and Ischemic Heart Disease,黃正雄",9/25/2023,一,9:00,9/25/2023,9:50,FALSE,FALSE,10/3/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃正雄
+"[Cardiovascular medicine]:CV_lec_11, Hypertension,許百豐",9/25/2023,一,10:10,9/25/2023,11:00,FALSE,FALSE,10/3/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許百豐
+"[Radiotherapy]:CV_lec_06, Radiation physics, biology and radiation therapy equipments,黃品逸",9/25/2023,一,11:10,9/25/2023,12:00,FALSE,FALSE,10/3/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃品逸
+PBL-CV01-II,9/25/2023,一,13:20,9/25/2023,14:10,FALSE,FALSE,10/3/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-CV01-II,9/25/2023,一,14:20,9/25/2023,15:10,FALSE,FALSE,10/3/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-CV01-II,9/25/2023,一,15:30,9/25/2023,16:20,FALSE,FALSE,10/3/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[PAS]:PAS_03, 醫療與社會(A時段),-",9/26/2023,二,8:00,9/26/2023,8:50,FALSE,FALSE,10/4/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_03, 醫療與社會(A時段),-",9/26/2023,二,9:00,9/26/2023,9:50,FALSE,FALSE,10/4/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Cardiovascular medicine]:CV_lec_04, Cardiac Arrythmia - Bradyarrythmia,段大全",9/26/2023,二,10:10,9/26/2023,11:00,FALSE,FALSE,10/4/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,段大全
+"[Cardiovascular medicine]:CV_lec_21, Heart Failure,吳政億",9/26/2023,二,11:10,9/26/2023,12:00,FALSE,FALSE,10/4/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳政億
+"[Pathology&Laboratory]:CV_lec_44, The heart,張富邦",9/26/2023,二,13:20,9/26/2023,14:10,FALSE,FALSE,10/4/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Pathology&Laboratory]:CV_lec_45, The heart,張富邦",9/26/2023,二,14:20,9/26/2023,15:10,FALSE,FALSE,10/4/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Pathology&Laboratory]:CV_lec_46, The heart,張富邦",9/26/2023,二,15:30,9/26/2023,16:20,FALSE,FALSE,10/4/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Pathology&Laboratory]:CV_lec_48, The heart,張富邦",9/26/2023,二,16:30,9/26/2023,17:20,FALSE,FALSE,10/4/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Cardiovascular medicine]:CV_lec_07, Acute coronary syndrome and coronary catheterization,盧澤民",9/27/2023,三,9:00,9/27/2023,9:50,FALSE,FALSE,10/5/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,盧澤民
+"[Cardiovascular medicine]:CV_lec_09, Pulmonary Hypertension,宋思賢",9/27/2023,三,10:10,9/27/2023,11:00,FALSE,FALSE,10/5/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,宋思賢
+"[Nuclear medicine]:CV_lec_08, Nuclear Cardiology,胡蓮欣",9/27/2023,三,11:10,9/27/2023,12:00,FALSE,FALSE,10/5/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,胡蓮欣
+"[Otolarynglolgy]:Ent_05, Diseases of Inner Ear,黃啟原",9/27/2023,三,13:20,9/27/2023,14:10,FALSE,FALSE,10/5/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃啟原
+"[Otolarynglolgy]:Ent_06, Diseases of Inner Ear,黃啟原",9/27/2023,三,14:20,9/27/2023,15:10,FALSE,FALSE,10/5/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃啟原
+"[Cardiovascular medicine]:CV_lec_30, 實證醫學,鄭浩民",9/27/2023,三,15:30,9/27/2023,16:20,FALSE,FALSE,10/5/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,鄭浩民
+"[Cardiovascular medicine]:CV_lec_40, Valvular Heart Disease,陳嬰華",9/27/2023,三,16:30,9/27/2023,17:20,FALSE,FALSE,10/5/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳嬰華
+教師節(停課不停班),9/28/2023,四,8:00,9/28/2023,8:50,FALSE,FALSE,10/6/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+教師節(停課不停班),9/28/2023,四,9:00,9/28/2023,9:50,FALSE,FALSE,10/6/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+教師節(停課不停班),9/28/2023,四,10:10,9/28/2023,11:00,FALSE,FALSE,10/6/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+教師節(停課不停班),9/28/2023,四,11:10,9/28/2023,12:00,FALSE,FALSE,10/6/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+教師節(停課不停班),9/28/2023,四,13:20,9/28/2023,14:10,FALSE,FALSE,10/6/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+教師節(停課不停班),9/28/2023,四,14:20,9/28/2023,15:10,FALSE,FALSE,10/6/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+教師節(停課不停班),9/28/2023,四,15:30,9/28/2023,16:20,FALSE,FALSE,10/6/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+教師節(停課不停班),9/28/2023,四,16:30,9/28/2023,17:20,FALSE,FALSE,10/6/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+中秋節(放假一天),9/29/2023,五,8:00,9/29/2023,8:50,FALSE,FALSE,10/7/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+中秋節(放假一天),9/29/2023,五,9:00,9/29/2023,9:50,FALSE,FALSE,10/7/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+中秋節(放假一天),9/29/2023,五,10:10,9/29/2023,11:00,FALSE,FALSE,10/7/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+中秋節(放假一天),9/29/2023,五,11:10,9/29/2023,12:00,FALSE,FALSE,10/7/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+中秋節(放假一天),9/29/2023,五,13:20,9/29/2023,14:10,FALSE,FALSE,10/7/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+中秋節(放假一天),9/29/2023,五,14:20,9/29/2023,15:10,FALSE,FALSE,10/7/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+中秋節(放假一天),9/29/2023,五,15:30,9/29/2023,16:20,FALSE,FALSE,10/7/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+中秋節(放假一天),9/29/2023,五,16:30,9/29/2023,17:20,FALSE,FALSE,10/7/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Cardiovascular medicine]:CV_lec_20, Cardiomyopathies & myocarditis,余文鍾",10/2/2023,一,9:00,10/2/2023,9:50,FALSE,FALSE,10/10/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,余文鍾
+"[Cardiovascular medicine]:CV_lec_10, Cardiac Arrythmia - Tachyarrythmia,羅力瑋",10/2/2023,一,10:10,10/2/2023,11:00,FALSE,FALSE,10/10/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,羅力瑋
+"[Cardiovascular medicine]:CV_lec_28, Cardiac Emergency and Intensive Care of Cardiac Disease,黃金洲",10/2/2023,一,11:10,10/2/2023,12:00,FALSE,FALSE,10/10/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃金洲
+PBL-CV01-III,10/2/2023,一,13:20,10/2/2023,14:10,FALSE,FALSE,10/10/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-CV01-III,10/2/2023,一,14:20,10/2/2023,15:10,FALSE,FALSE,10/10/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[PAS]:PAS_04, 醫療與社會(A時段),-",10/3/2023,二,8:00,10/3/2023,8:50,FALSE,FALSE,10/11/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_04, 醫療與社會(A時段),-",10/3/2023,二,9:00,10/3/2023,9:50,FALSE,FALSE,10/11/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Cardiovascular medicine]:CV_lec_18, Congenital Heart Disease,李必昌",10/3/2023,二,10:10,10/3/2023,11:00,FALSE,FALSE,10/11/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李必昌
+"[Cardiovascular medicine]:CV_lec_23, Diseases of Aorta - aortic dissection & abdominal aortic aneurysm,許喬博",10/3/2023,二,11:10,10/3/2023,12:00,FALSE,FALSE,10/11/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許喬博
+"[Pathology&Laboratory]:Pulm_lec_46, Head and neck pathology (upper respiratory system),郭盈汝",10/3/2023,二,13:20,10/3/2023,14:10,FALSE,FALSE,10/11/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pathology&Laboratory]:Pulm_lec_47, Head and neck pathology (upper respiratory system),郭盈汝",10/3/2023,二,14:20,10/3/2023,15:10,FALSE,FALSE,10/11/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pathology&Laboratory]:Pulm_lec_48, Lung pathology,葉奕成",10/3/2023,二,15:30,10/3/2023,16:20,FALSE,FALSE,10/11/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉奕成
+"[Pathology&Laboratory]:Pulm_lec_49, Lung pathology,葉奕成",10/3/2023,二,16:30,10/3/2023,17:20,FALSE,FALSE,10/11/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉奕成
+"[Cardiovascular medicine]:CV_lec_22, Hypotension and Syncope,鐘法博",10/4/2023,三,9:00,10/4/2023,9:50,FALSE,FALSE,10/12/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,鐘法博
+"[Cardiovascular medicine]:CV_lec_12, Deep Vein Thrombosis & Pulmonary Embolism,吳承學",10/4/2023,三,10:10,10/4/2023,11:00,FALSE,FALSE,10/12/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳承學
+"[Cardiovascular medicine]:CV_lec_35, PBL-CV01-Case Wrapup,廖若男",10/4/2023,三,11:10,10/4/2023,12:00,FALSE,FALSE,10/12/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,廖若男
+"[Otolarynglolgy]:Ent_19, Tumor of Nose and Paranasal Sinuses,藍敏瑛",10/4/2023,三,13:20,10/4/2023,14:10,FALSE,FALSE,10/12/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,藍敏瑛
+"[Otolarynglolgy]:Ent_20, Tumor of Nose and Paranasal Sinuses,藍敏瑛",10/4/2023,三,14:20,10/4/2023,15:10,FALSE,FALSE,10/12/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,藍敏瑛
+"[Otolarynglolgy]:Ent_03, Diseases of the Nasopharynx and Related Areas,葉建甫",10/4/2023,三,15:30,10/4/2023,16:20,FALSE,FALSE,10/12/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉建甫
+"[Otolarynglolgy]:Ent_04, Diseases of the Nasopharynx and Related Areas,葉建甫",10/4/2023,三,16:30,10/4/2023,17:20,FALSE,FALSE,10/12/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉建甫
+"[Rehabilitation Medicine]:CV_lec_13, Cardio-pulmonary rehabilitation,林克隆",10/5/2023,四,9:00,10/5/2023,9:50,FALSE,FALSE,10/13/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林克隆
+"[Pharmacology]:CV_lec_25, Antihypertensive drugs,黃金洲",10/5/2023,四,10:10,10/5/2023,11:00,FALSE,FALSE,10/13/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃金洲
+"[Pharmacology]:CV_lec_15, Drugs for angina pectoris,梁耀仁",10/5/2023,四,11:10,10/5/2023,12:00,FALSE,FALSE,10/13/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,梁耀仁
+基礎臨床技能訓練課程,10/5/2023,四,13:20,10/5/2023,14:10,FALSE,FALSE,10/13/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,10/5/2023,四,14:20,10/5/2023,15:10,FALSE,FALSE,10/13/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,10/5/2023,四,15:30,10/5/2023,16:20,FALSE,FALSE,10/13/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,10/5/2023,四,16:30,10/5/2023,17:20,FALSE,FALSE,10/13/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Introduction to Surgery]:CV_lec_24, 心臟血管手術概論,陳沂名",10/6/2023,五,9:00,10/6/2023,9:50,FALSE,FALSE,10/14/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳沂名
+"[Pharmacology]:CV_lec_16, Drugs for heart failure,張婷婷",10/6/2023,五,10:10,10/6/2023,11:00,FALSE,FALSE,10/14/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張婷婷
+"[Pharmacology]:CV_lec_26, Antiarrhythmic Drugs,張世霖",10/6/2023,五,11:10,10/6/2023,12:00,FALSE,FALSE,10/14/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張世霖
+國慶日調整放假,10/9/2023,一,8:00,10/9/2023,8:50,FALSE,FALSE,10/17/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日調整放假,10/9/2023,一,9:00,10/9/2023,9:50,FALSE,FALSE,10/17/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日調整放假,10/9/2023,一,10:10,10/9/2023,11:00,FALSE,FALSE,10/17/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日調整放假,10/9/2023,一,11:10,10/9/2023,12:00,FALSE,FALSE,10/17/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日調整放假,10/9/2023,一,13:20,10/9/2023,14:10,FALSE,FALSE,10/17/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日調整放假,10/9/2023,一,14:20,10/9/2023,15:10,FALSE,FALSE,10/17/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日調整放假,10/9/2023,一,15:30,10/9/2023,16:20,FALSE,FALSE,10/17/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日調整放假,10/9/2023,一,16:30,10/9/2023,17:20,FALSE,FALSE,10/17/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日,10/10/2023,二,8:00,10/10/2023,8:50,FALSE,FALSE,10/18/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日,10/10/2023,二,9:00,10/10/2023,9:50,FALSE,FALSE,10/18/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日,10/10/2023,二,10:10,10/10/2023,11:00,FALSE,FALSE,10/18/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日,10/10/2023,二,11:10,10/10/2023,12:00,FALSE,FALSE,10/18/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日,10/10/2023,二,13:20,10/10/2023,14:10,FALSE,FALSE,10/18/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日,10/10/2023,二,14:20,10/10/2023,15:10,FALSE,FALSE,10/18/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日,10/10/2023,二,15:30,10/10/2023,16:20,FALSE,FALSE,10/18/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+國慶日,10/10/2023,二,16:30,10/10/2023,17:20,FALSE,FALSE,10/18/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Cardiovascular medicine]:CV_lec_37, 循環學區段考試,林彥璋",10/11/2023,三,10:10,10/11/2023,11:00,FALSE,FALSE,10/19/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林彥璋
+"[Cardiovascular medicine]:CV_lec_38, 循環學區段考試,吳道正",10/11/2023,三,11:10,10/11/2023,12:00,FALSE,FALSE,10/19/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳道正
+"[Otolarynglolgy]:Ent_29, Diseases of Larynx, Hypopharynx and Bronchoesophagus,朱本元",10/11/2023,三,13:20,10/11/2023,14:10,FALSE,FALSE,10/19/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,朱本元
+"[Otolarynglolgy]:Ent_30, Diseases of Larynx, Hypopharynx and Bronchoesophagus,朱本元",10/11/2023,三,14:20,10/11/2023,15:10,FALSE,FALSE,10/19/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,朱本元
+"[Pulmonary medicine]:Pulm_lec_01, Introduction:The Approach of Respiratory Disorders,周中偉",10/12/2023,四,8:00,10/12/2023,8:50,FALSE,FALSE,10/20/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,周中偉
+"[Pulmonary medicine]:Pulm_lec_07, Diagnostic Procedure of Respirology -- Including Radiology, Bronchoscopy, Pulmonary Function, Nuclear Medicine, Pleuroscopy.,羅永鴻",10/12/2023,四,9:00,10/12/2023,9:50,FALSE,FALSE,10/20/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,羅永鴻
+"[Imaging Diagnosis]:Pulm_lec_03, Imagings of the Respiratory System-1,陳俊谷",10/12/2023,四,10:10,10/12/2023,11:00,FALSE,FALSE,10/20/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳俊谷
+"[Imaging Diagnosis]:Pulm_lec_06, Imagings of the Respiratory System-2,陳俊谷",10/12/2023,四,11:10,10/12/2023,12:00,FALSE,FALSE,10/20/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳俊谷
+"[Otolarynglolgy]:Ent_27,  Rhinoplasty & Facial plasty,洪莉婷",10/12/2023,四,13:20,10/12/2023,14:10,FALSE,FALSE,10/20/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,洪莉婷
+"[Otolarynglolgy]:Ent_28,  Rhinoplasty & Facial plasty,洪莉婷",10/12/2023,四,14:20,10/12/2023,15:10,FALSE,FALSE,10/20/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,洪莉婷
+"[Pulmonary Medicine]:Pulm_lec_02, SKILL-呼吸系統臨床技巧,陳燕溫",10/12/2023,四,15:30,10/12/2023,16:20,FALSE,FALSE,10/20/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳燕溫
+"[Pulmonary medicine]:Pulm_lec_08, Respiratory Infection I–Pneumonia, Bacterial, Viral, Influenza.,馮嘉毅",10/12/2023,四,16:30,10/12/2023,17:20,FALSE,FALSE,10/20/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,馮嘉毅
+"[Radiotherapy]:Pulm_lec_20, Radiotherapy of the Respiratory System,陳一瑋",10/13/2023,五,9:00,10/13/2023,9:50,FALSE,FALSE,10/21/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳一瑋
+"[Pulmonary medicine]:Pulm_lec_09, Respiratory Infection II -- TB, Fungi Infection.,潘聖衛",10/13/2023,五,10:10,10/13/2023,11:00,FALSE,FALSE,10/21/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,潘聖衛
+"[Pulmonary medicine]:Pulm_lec_16, Vascular Pulmonary Diseases.,趙恆勝",10/13/2023,五,11:10,10/13/2023,12:00,FALSE,FALSE,10/21/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,趙恆勝
+PBL-CM01-I,10/13/2023,五,13:20,10/13/2023,14:10,FALSE,FALSE,10/21/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-CM01-I,10/13/2023,五,14:20,10/13/2023,15:10,FALSE,FALSE,10/21/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pulmonary medicine]:Pulm_lec_13, Diffuse Infiltrative Lung Disease.,林芳綺",10/16/2023,一,9:00,10/16/2023,9:50,FALSE,FALSE,10/24/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林芳綺
+"[Pulmonary medicine]:Pulm_lec_11, Asthma,彭殿王",10/16/2023,一,10:10,10/16/2023,11:00,FALSE,FALSE,10/24/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,彭殿王
+"[Pharmacology]:Pulm_lec_15, Antimycobacterial Drugs,兵岳忻",10/16/2023,一,11:10,10/16/2023,12:00,FALSE,FALSE,10/24/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,兵岳忻
+PBL-CM01-II,10/16/2023,一,13:20,10/16/2023,14:10,FALSE,FALSE,10/24/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-CM01-II,10/16/2023,一,14:20,10/16/2023,15:10,FALSE,FALSE,10/24/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-CM01-II,10/16/2023,一,15:30,10/16/2023,16:20,FALSE,FALSE,10/24/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[PAS]:PAS_06, 醫療與社會(A時段),-",10/17/2023,二,8:00,10/17/2023,8:50,FALSE,FALSE,10/25/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_06, 醫療與社會(A時段),-",10/17/2023,二,9:00,10/17/2023,9:50,FALSE,FALSE,10/25/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Pulmonary medicine]:Pulm_lec_10, COPD,余文光",10/17/2023,二,10:10,10/17/2023,11:00,FALSE,FALSE,10/25/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,余文光
+"[Pulmonary medicine]:Pulm_lec_12, Environmental Lung Diseases.,蘇剛正",10/17/2023,二,11:10,10/17/2023,12:00,FALSE,FALSE,10/25/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蘇剛正
+"[Pathology&Laboratory]:Pulm_lec_40, Lung pathology,葉奕成",10/17/2023,二,13:20,10/17/2023,14:10,FALSE,FALSE,10/25/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉奕成
+"[Pathology&Laboratory]:Pulm_lec_41, Lung pathology,葉奕成",10/17/2023,二,14:20,10/17/2023,15:10,FALSE,FALSE,10/25/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉奕成
+"[Pathology&Laboratory]:Pulm_lec_42, Lung pathology,葉奕成",10/17/2023,二,15:30,10/17/2023,16:20,FALSE,FALSE,10/25/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉奕成
+"[Pathology&Laboratory]:Pulm_lec_43, Lung pathology,葉奕成",10/17/2023,二,16:30,10/17/2023,17:20,FALSE,FALSE,10/25/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉奕成
+"[Pulmonary Medicine]:Pulm_lec_34, Sleep Disordered Breathing,周昆達",10/18/2023,三,10:10,10/18/2023,11:00,FALSE,FALSE,10/26/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,周昆達
+"[Pulmonary medicine]:Pulm_lec_17, Chronic and Acute Respiratory Failure.,陽光耀",10/18/2023,三,11:10,10/18/2023,12:00,FALSE,FALSE,10/26/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陽光耀
+"[Otolarynglolgy]:Ent_01, Diseases of Oropharynx and Neck Mass,戴世光",10/18/2023,三,13:20,10/18/2023,14:10,FALSE,FALSE,10/26/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,戴世光
+"[Otolarynglolgy]:Ent_02, Diseases of Oropharynx and Neck Mass,戴世光",10/18/2023,三,14:20,10/18/2023,15:10,FALSE,FALSE,10/26/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,戴世光
+"[Pulmonary medicine]:Pulm_lec_18, Pulmonary Neoplasia,陳育民",10/18/2023,三,15:30,10/18/2023,16:20,FALSE,FALSE,10/26/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳育民
+"[Pulmonary medicine]:Pulm_lec_21, Surgery of the Lung.,許瀚水",10/18/2023,三,16:30,10/18/2023,17:20,FALSE,FALSE,10/26/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許瀚水
+"[Pulmonary medicine]:Pulm_lec_22, Diseases of Mediastinum.,徐博奎",10/19/2023,四,9:00,10/19/2023,9:50,FALSE,FALSE,10/27/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,徐博奎
+"[Pulmonary Medicine]:Pulm_lec_19, Pleural Diseases-- Pleural effusion, empyema, pneumothorax,黃建勝",10/19/2023,四,10:10,10/19/2023,11:00,FALSE,FALSE,10/27/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃建勝
+"[Pharmacology]:Pulm_lec_25, Oxygen therapy,柯信國",10/19/2023,四,11:10,10/19/2023,12:00,FALSE,FALSE,10/27/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,柯信國
+基礎臨床技能訓練課程,10/19/2023,四,13:20,10/19/2023,14:10,FALSE,FALSE,10/27/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,10/19/2023,四,14:20,10/19/2023,15:10,FALSE,FALSE,10/27/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,10/19/2023,四,15:30,10/19/2023,16:20,FALSE,FALSE,10/27/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,10/19/2023,四,16:30,10/19/2023,17:20,FALSE,FALSE,10/27/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pulmonary medicine]:Pulm_lec_26, Traumatic Injury of the Chest.,劉鎮旗",10/20/2023,五,10:10,10/20/2023,11:00,FALSE,FALSE,10/28/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉鎮旗
+"[Pulmonary medicine]:Pulm_lec_23, Diseases of the Diaphragma (including hiatal  hern),謝致政",10/20/2023,五,11:10,10/20/2023,12:00,FALSE,FALSE,10/28/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,謝致政
+PBL-CM01-III,10/20/2023,五,13:20,10/20/2023,14:10,FALSE,FALSE,10/28/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-CM01-III,10/20/2023,五,14:20,10/20/2023,15:10,FALSE,FALSE,10/28/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pharmacology]:Pulm_lec_04, Drugs used in asthma, obstructive disease and mucokinetic drugs and drugs for cough (1),嚴錦城",10/23/2023,一,9:00,10/23/2023,9:50,FALSE,FALSE,10/31/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Pharmacology]:Pulm_lec_05, Drugs used in asthma, obstructive disease and mucokinetic drugs and drugs for cough (2),嚴錦城",10/23/2023,一,10:10,10/23/2023,11:00,FALSE,FALSE,10/31/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Pulmonary Medicine]:Pulm_lec_27, PBL-CM01-Case Wrapup,羅永鴻",10/23/2023,一,11:10,10/23/2023,12:00,FALSE,FALSE,10/31/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,羅永鴻
+"[PAS]:PAS_07, 醫療與社會(A時段),-",10/24/2023,二,8:00,10/24/2023,8:50,FALSE,FALSE,11/1/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_07, 醫療與社會(A時段),-",10/24/2023,二,9:00,10/24/2023,9:50,FALSE,FALSE,11/1/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Pathology&Laboratory]:Meta_lec_30, Thyroid and Parathyroid,杭仁釩",10/24/2023,二,13:20,10/24/2023,14:10,FALSE,FALSE,11/1/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,杭仁釩
+"[Pathology&Laboratory]:Meta_lec_31, Thyroid and Parathyroid,杭仁釩",10/24/2023,二,14:20,10/24/2023,15:10,FALSE,FALSE,11/1/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,杭仁釩
+"[Pathology&Laboratory]:Meta_lec_32, Thyroid and Parathyroid,杭仁釩",10/24/2023,二,15:30,10/24/2023,16:20,FALSE,FALSE,11/1/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,杭仁釩
+"[Pathology&Laboratory]:Meta_lec_33, Thyroid and Parathyroid,杭仁釩",10/24/2023,二,16:30,10/24/2023,17:20,FALSE,FALSE,11/1/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,杭仁釩
+"[Pulmonary Medicine]:Pulm_lec_32, 呼吸學區段考試,CM總醫師",10/25/2023,三,10:10,10/25/2023,11:00,FALSE,FALSE,11/2/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,CM總醫師
+"[Pulmonary Medicine]:Pulm_lec_33, 呼吸學區段考試,CM總醫師",10/25/2023,三,11:10,10/25/2023,12:00,FALSE,FALSE,11/2/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,CM總醫師
+"[Otolarynglolgy]:Ent_25, Diseases of Oral Cavity and salivary gland,李宗倫",10/25/2023,三,13:20,10/25/2023,14:10,FALSE,FALSE,11/2/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李宗倫
+"[Otolarynglolgy]:Ent_26, Diseases of Oral Cavity and salivary gland,李宗倫",10/25/2023,三,14:20,10/25/2023,15:10,FALSE,FALSE,11/2/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李宗倫
+"[Endocrinology]:Meta_lec_01, 內分泌學簡介,胡啟民",10/26/2023,四,9:00,10/26/2023,9:50,FALSE,FALSE,11/3/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,胡啟民
+"[Endocrinology]:Meta_lec_02, 腦下垂體前葉及腦下垂體功能不足,陳涵栩",10/26/2023,四,10:10,10/26/2023,11:00,FALSE,FALSE,11/3/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳涵栩
+"[Endocrinology]:Meta_lec_06, 腦下垂體腫瘤及腦下垂體後葉,黃加璋",10/26/2023,四,11:10,10/26/2023,12:00,FALSE,FALSE,11/3/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃加璋
+"[Otolarynglolgy]:Ent_23, Sleep-disordered breathing, Speech Pathology, Voice Disorders,許彥彬",10/26/2023,四,13:20,10/26/2023,14:10,FALSE,FALSE,11/3/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許彥彬
+"[Otolarynglolgy]:Ent_24, Sleep-disordered breathing, Speech Pathology, Voice Disorders,許彥彬",10/26/2023,四,14:20,10/26/2023,15:10,FALSE,FALSE,11/3/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許彥彬
+"[Pharmacology]:Meta_lec_04, Thyroid & Antithyroid drugs,王怡凱",10/26/2023,四,15:30,10/26/2023,16:20,FALSE,FALSE,11/3/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王怡凱
+"[Pharmacology]:Meta_lec_18, Agents That Affect Bone Mineral Homeostasis,王怡凱",10/26/2023,四,16:30,10/26/2023,17:20,FALSE,FALSE,11/3/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王怡凱
+"[Endocrinology]:Meta_lec_03, 生長異常,王俊興",10/27/2023,五,10:10,10/27/2023,11:00,FALSE,FALSE,11/4/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王俊興
+"[Endocrinology]:Meta_lec_19, 骨質疏鬆症,林亮羽",10/27/2023,五,11:10,10/27/2023,12:00,FALSE,FALSE,11/4/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林亮羽
+PBL-Meta01-I,10/27/2023,五,13:20,10/27/2023,14:10,FALSE,FALSE,11/4/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-Meta01-I,10/27/2023,五,14:20,10/27/2023,15:10,FALSE,FALSE,11/4/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Endocrinology]:Meta_lec_11, 肥胖症,林道承",10/30/2023,一,9:00,10/30/2023,9:50,FALSE,FALSE,11/7/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林道承
+"[Endocrinology]:Meta_lec_07, 甲狀腺機能異常,黃君睿",10/30/2023,一,10:10,10/30/2023,11:00,FALSE,FALSE,11/7/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃君睿
+"[Endocrinology]:Meta_lec_09, 甲狀腺結節及甲狀腺癌,郭錦松",10/30/2023,一,11:10,10/30/2023,12:00,FALSE,FALSE,11/7/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭錦松
+PBL-Meta01-II,10/30/2023,一,13:20,10/30/2023,14:10,FALSE,FALSE,11/7/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-Meta01-II,10/30/2023,一,14:20,10/30/2023,15:10,FALSE,FALSE,11/7/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-Meta01-II,10/30/2023,一,15:30,10/30/2023,16:20,FALSE,FALSE,11/7/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[PAS]:PAS_08, 醫療與社會(A時段),-",10/31/2023,二,8:00,10/31/2023,8:50,FALSE,FALSE,11/8/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_08, 醫療與社會(A時段),-",10/31/2023,二,9:00,10/31/2023,9:50,FALSE,FALSE,11/8/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Endocrinology]:Meta_lec_10, 鈣代謝異常,黃君睿",10/31/2023,二,10:10,10/31/2023,11:00,FALSE,FALSE,11/8/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃君睿
+"[Endocrinology]:Meta_lec_05, 腎上腺疾病,李奕德",10/31/2023,二,11:10,10/31/2023,12:00,FALSE,FALSE,11/8/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李奕德
+"[Pathology&Laboratory]:Meta_lec_36, Pituitary gland and Adrenal gland,林士傑",10/31/2023,二,13:20,10/31/2023,14:10,FALSE,FALSE,11/8/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士傑
+"[Pathology&Laboratory]:Meta_lec_37, Pituitary gland and Adrenal gland,林士傑",10/31/2023,二,14:20,10/31/2023,15:10,FALSE,FALSE,11/8/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士傑
+"[Otolarynglolgy]:Ent_25, Diseases of Oral Cavity and salivary gland,李宗倫",11/1/2023,三,10:10,11/1/2023,11:00,FALSE,FALSE,11/9/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李宗倫
+"[Otolarynglolgy]:Ent_26, Diseases of Oral Cavity and salivary gland,李宗倫",11/1/2023,三,11:10,11/1/2023,12:00,FALSE,FALSE,11/9/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李宗倫
+"[Endocrinology]:Meta_lec_16, 低血糖及糖尿病的急性併發症,林時逸",11/1/2023,三,13:20,11/1/2023,14:10,FALSE,FALSE,11/9/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林時逸
+"[Endocrinology]:Meta_lec_12, 糖尿病的病生理,沈宜靜",11/1/2023,三,14:20,11/1/2023,15:10,FALSE,FALSE,11/9/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,沈宜靜
+"[Endocrinology]:Meta_lec_13, 糖尿病的治療,許惠恒",11/1/2023,三,15:30,11/1/2023,16:20,FALSE,FALSE,11/9/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許惠恒
+"[Introduction to Surgery]:Meta_lec_34, Metabolism in Surgical Patients,葉奕廷",11/1/2023,三,16:30,11/1/2023,17:20,FALSE,FALSE,11/9/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉奕廷
+"[Pharmacology]:Meta_lec_08, 腎上腺皮質荷爾蒙類似物及抑制劑,李沛璋",11/2/2023,四,9:00,11/2/2023,9:50,FALSE,FALSE,11/10/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李沛璋
+"[Endocrinology]:Meta_lec_15, 糖尿病的慢性併發症,胡啟民",11/2/2023,四,10:10,11/2/2023,11:00,FALSE,FALSE,11/10/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,胡啟民
+"[Endocrinology]:Meta_lec_20, 多發性內分泌疾病,王繁棻",11/2/2023,四,11:10,11/2/2023,12:00,FALSE,FALSE,11/10/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王繁棻
+基礎臨床技能訓練課程,11/2/2023,四,13:20,11/2/2023,14:10,FALSE,FALSE,11/10/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/2/2023,四,14:20,11/2/2023,15:10,FALSE,FALSE,11/10/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/2/2023,四,15:30,11/2/2023,16:20,FALSE,FALSE,11/10/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/2/2023,四,16:30,11/2/2023,17:20,FALSE,FALSE,11/10/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Imaging Diagnosis]:Meta_lec_25, Radiology of Endocrine disease and osteoporosis,吳宏達",11/3/2023,五,10:10,11/3/2023,11:00,FALSE,FALSE,11/11/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳宏達
+"[Nuclear medicine]:Meta_lec_23, Nuclear Theranostics,蔡世傳",11/3/2023,五,11:10,11/3/2023,12:00,FALSE,FALSE,11/11/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡世傳
+PBL-Meta01-III,11/3/2023,五,13:20,11/3/2023,14:10,FALSE,FALSE,11/11/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-Meta01-III,11/3/2023,五,14:20,11/3/2023,15:10,FALSE,FALSE,11/11/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+一對一訪談,11/3/2023,五,15:30,11/3/2023,16:20,FALSE,FALSE,11/11/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Endocrinology]:Meta_lec_28, PBL-Meta01-Case Wrapup,沈宜靜",11/6/2023,一,13:20,11/6/2023,14:10,FALSE,FALSE,11/14/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,沈宜靜
+"[PAS]:PAS_08, 醫療與社會(A時段),-",11/7/2023,二,8:00,11/7/2023,8:50,FALSE,FALSE,11/15/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_08, 醫療與社會(A時段),-",11/7/2023,二,9:00,11/7/2023,9:50,FALSE,FALSE,11/15/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Pathology&Laboratory]:Meta_lec_38, 病理學及病理學實驗期中考,病理學助教",11/7/2023,二,13:20,11/7/2023,14:10,FALSE,FALSE,11/15/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,病理學助教
+"[Pathology&Laboratory]:Meta_lec_39, 病理學及病理學實驗期中考,病理學助教",11/7/2023,二,14:20,11/7/2023,15:10,FALSE,FALSE,11/15/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,病理學助教
+"[PAS]:PAS_10, 醫療與社會(B時段),-",11/8/2023,三,13:20,11/8/2023,14:10,FALSE,FALSE,11/16/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_10, 醫療與社會(B時段),-",11/8/2023,三,14:20,11/8/2023,15:10,FALSE,FALSE,11/16/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Pharmacology]:GI_lec_11,  Pancreatic Hormones & Antidiabetic Drugs (1),嚴錦城",11/8/2023,三,15:30,11/8/2023,16:20,FALSE,FALSE,11/16/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Pharmacology]:GI_lec_22, Pancreatic Hormones & Antidiabetic Drugs (2),嚴錦城",11/8/2023,三,16:30,11/8/2023,17:20,FALSE,FALSE,11/16/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Gastroenterology]:GI_lec_01, Approach to the patient with GI and liver diseases,黃惠君",11/9/2023,四,9:00,11/9/2023,9:50,FALSE,FALSE,11/17/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃惠君
+"[Radiotherapy]:GI_lec_24, Radiotherapy for GI tract cancer,王令瑋",11/9/2023,四,10:10,11/9/2023,11:00,FALSE,FALSE,11/17/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王令瑋
+"[Imaging Diagnosis]:GI_lec_36, Introduction to GI diagnosis,邱乃祈",11/9/2023,四,11:10,11/9/2023,12:00,FALSE,FALSE,11/17/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,邱乃祈
+"[Gastroenterology]:GI_lec_02, Disease of esophagus,盧俊良",11/9/2023,四,13:20,11/9/2023,14:10,FALSE,FALSE,11/17/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,盧俊良
+"[Gastroenterology]:GI_lec_03, Surgery of esophageal cancer,許瀚水",11/9/2023,四,14:20,11/9/2023,15:10,FALSE,FALSE,11/17/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許瀚水
+"[Imaging Diagnosis]:GI_lec_12, Diagnostic radiology in GI diseases (1),邱乃祈",11/10/2023,五,8:00,11/10/2023,8:50,FALSE,FALSE,11/18/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,邱乃祈
+"[Imaging Diagnosis]:GI_lec_13, Diagnostic radiology in GI diseases (2),邱乃祈",11/10/2023,五,9:00,11/10/2023,9:50,FALSE,FALSE,11/18/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,邱乃祈
+"[Gastroenterology]:GI_lec_04, Peptic ulcer disease and related disorders,羅景全",11/10/2023,五,10:10,11/10/2023,11:00,FALSE,FALSE,11/18/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,羅景全
+"[Gastroenterology]:GI_lec_06, Surgery of stomach and duodenum,方文良",11/10/2023,五,11:10,11/10/2023,12:00,FALSE,FALSE,11/18/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,方文良
+"[Gastroenterology]:GI_lec_23, Disorder of absorption,李沛璋",11/10/2023,五,13:20,11/10/2023,14:10,FALSE,FALSE,11/18/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李沛璋
+"[Gastroenterology]:GI_lec_10, Irritable bowel syndrome and inflammatory bowel disease,王彥博",11/10/2023,五,14:20,11/10/2023,15:10,FALSE,FALSE,11/18/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王彥博
+"[Gastroenterology]:GI_lec_27, SKILL-消化系統臨床技巧,李癸汌",11/10/2023,五,15:30,11/10/2023,16:20,FALSE,FALSE,11/18/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李癸汌
+"[Gastroenterology]:GI_lec_16, Surgery of liver, intestine, and acute abdomen,周書正",11/13/2023,一,8:00,11/13/2023,8:50,FALSE,FALSE,11/21/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,周書正
+"[Gastroenterology]:GI_lec_17, Evaluation of liver function and hyperbilirubinemia,謝昀蓁",11/13/2023,一,9:00,11/13/2023,9:50,FALSE,FALSE,11/21/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,謝昀蓁
+"[Pharmacology]:GI_lec_05, Agents for control of gastric acidity, peptic ulcers and gastroesophageal reflux disease,駱雨利",11/13/2023,一,10:10,11/13/2023,11:00,FALSE,FALSE,11/21/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,駱雨利
+"[Pharmacology]:GI_lec_25, Drugs for the dissolution of gallstones, pancreatic enzymes, drugs that modify appetite,駱雨利",11/13/2023,一,11:10,11/13/2023,12:00,FALSE,FALSE,11/21/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,駱雨利
+PBL-GI01-I,11/13/2023,一,13:20,11/13/2023,14:10,FALSE,FALSE,11/21/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-GI01-I,11/13/2023,一,14:20,11/13/2023,15:10,FALSE,FALSE,11/21/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pathology&Laboratory]:GI_lec_56, The head and neck (oral cavity, salivary gland, ear and neck, jaw bone),郭盈汝",11/14/2023,二,13:20,11/14/2023,14:10,FALSE,FALSE,11/22/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pathology&Laboratory]:GI_lec_57, The head and neck (oral cavity, salivary gland, ear and neck, jaw bone),郭盈汝",11/14/2023,二,14:20,11/14/2023,15:10,FALSE,FALSE,11/22/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pathology&Laboratory]:GI_lec_58, The head and neck (oral cavity, salivary gland, ear and neck, jaw bone),郭盈汝",11/14/2023,二,15:30,11/14/2023,16:20,FALSE,FALSE,11/22/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pathology&Laboratory]:GI_lec_59, The head and neck (oral cavity, salivary gland, ear and neck, jaw bone),郭盈汝",11/14/2023,二,16:30,11/14/2023,17:20,FALSE,FALSE,11/22/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Endocrinology]:Meta_lec_26, 內分泌學區段考試,李佳霖",11/15/2023,三,10:10,11/15/2023,11:00,FALSE,FALSE,11/23/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李佳霖
+"[Endocrinology]:Meta_lec_27, 內分泌學區段考試,李佳霖",11/15/2023,三,11:10,11/15/2023,12:00,FALSE,FALSE,11/23/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李佳霖
+"[PAS]:PAS_11, 醫療與社會(B時段),-",11/15/2023,三,13:20,11/15/2023,14:10,FALSE,FALSE,11/23/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_11, 醫療與社會(B時段),-",11/15/2023,三,14:20,11/15/2023,15:10,FALSE,FALSE,11/23/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Gastroenterology]:GI_lec_09, Acute viral hepatitis and chronic hepatitis,黃怡翔",11/15/2023,三,15:30,11/15/2023,16:20,FALSE,FALSE,11/23/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃怡翔
+"[Gastroenterology]:GI_lec_15, Toxic & drug, genetic & metabolic, alcoholic and non-alcoholic fatty liver diseases,蘇建維",11/15/2023,三,16:30,11/15/2023,17:20,FALSE,FALSE,11/23/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蘇建維
+"[Gastroenterology]:GI_lec_21, Liver cirrhosis and its complications,李癸汌",11/16/2023,四,9:00,11/16/2023,9:50,FALSE,FALSE,11/24/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李癸汌
+"[Gastroenterology]:GI_lec_26, Benign and malignant liver tumors,李懿宬",11/16/2023,四,10:10,11/16/2023,11:00,FALSE,FALSE,11/24/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李懿宬
+"[Imaging Diagnosis]:GI_lec_19, Interventional radiology (body),柳建安",11/16/2023,四,11:10,11/16/2023,12:00,FALSE,FALSE,11/24/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,柳建安
+基礎臨床技能訓練課程,11/16/2023,四,13:20,11/16/2023,14:10,FALSE,FALSE,11/24/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/16/2023,四,14:20,11/16/2023,15:10,FALSE,FALSE,11/24/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/16/2023,四,15:30,11/16/2023,16:20,FALSE,FALSE,11/24/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/16/2023,四,16:30,11/16/2023,17:20,FALSE,FALSE,11/24/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Gastroenterology]:GI_lec_14, GI tract neoplasms (other than liver tumor),李重賓",11/17/2023,五,9:00,11/17/2023,9:50,FALSE,FALSE,11/25/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李重賓
+"[Gastroenterology]:GI_lec_20, Biliary and pancreatic diseases (including surgery),王心儀",11/17/2023,五,10:10,11/17/2023,11:00,FALSE,FALSE,11/25/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王心儀
+"[Introduction to Surgery]:GI_lec_28, 減重手術,方文良",11/17/2023,五,11:10,11/17/2023,12:00,FALSE,FALSE,11/25/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,方文良
+PBL-GI01-II,11/17/2023,五,13:20,11/17/2023,14:10,FALSE,FALSE,11/25/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-GI01-II,11/17/2023,五,14:20,11/17/2023,15:10,FALSE,FALSE,11/25/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-GI01-II,11/17/2023,五,15:30,11/17/2023,16:20,FALSE,FALSE,11/25/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pharmacology]:GI_lec_08, Prokinetic agents, antiemetics, and agents used for diarrhea, constipation, irritable bowel syndrome and inflammatory bowel disease,王湘翠",11/20/2023,一,10:10,11/20/2023,11:00,FALSE,FALSE,11/28/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王湘翠
+"[Pharmacology]:GI_lec_18, Pharmacotherapy of hepatic diseases and viral hepatitis,謝昀蓁",11/20/2023,一,11:10,11/20/2023,12:00,FALSE,FALSE,11/28/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,謝昀蓁
+PBL-GI01-III,11/20/2023,一,13:20,11/20/2023,14:10,FALSE,FALSE,11/28/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-GI01-III,11/20/2023,一,14:20,11/20/2023,15:10,FALSE,FALSE,11/28/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Gastroenterology]:GI_lec_29, PBL-GI01-Case Wrapup,吳啟榮",11/21/2023,二,11:10,11/21/2023,12:00,FALSE,FALSE,11/29/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳啟榮
+"[Pathology&Laboratory]:GI_lec_43, Esophargus, stomach duodenum and small intestine,李芬瑤",11/21/2023,二,13:20,11/21/2023,14:10,FALSE,FALSE,11/29/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤
+"[Pathology&Laboratory]:GI_lec_44, Esophargus, stomach duodenum and small intestine,李芬瑤",11/21/2023,二,14:20,11/21/2023,15:10,FALSE,FALSE,11/29/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤
+"[Pathology&Laboratory]:GI_lec_52, Appendix, large intestine, anorectum,梁文議",11/21/2023,二,15:30,11/21/2023,16:20,FALSE,FALSE,11/29/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,梁文議
+"[Pathology&Laboratory]:GI_lec_53, Appendix, large intestine, anorectum,梁文議",11/21/2023,二,16:30,11/21/2023,17:20,FALSE,FALSE,11/29/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,梁文議
+"[Pharmacology]:GI_lec_54, 藥理學期中考,嚴錦城 許馨文",11/22/2023,三,10:10,11/22/2023,11:00,FALSE,FALSE,11/30/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城 許馨文
+"[Pharmacology]:GI_lec_55, 藥理學期中考,嚴謹城 許馨文",11/22/2023,三,11:10,11/22/2023,12:00,FALSE,FALSE,11/30/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴謹城 許馨文
+"[PAS]:PAS_12, 醫療與社會(B時段),-",11/22/2023,三,13:20,11/22/2023,14:10,FALSE,FALSE,11/30/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_12, 醫療與社會(B時段),-",11/22/2023,三,14:20,11/22/2023,15:10,FALSE,FALSE,11/30/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Gastroenterology]:GI_lec_32, 消化學區段考試,GI教學總醫師",11/27/2023,一,10:10,11/27/2023,11:00,FALSE,FALSE,12/5/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,GI教學總醫師
+"[Gastroenterology]:GI_lec_33, 消化學區段考試,GI教學總醫師",11/27/2023,一,11:10,11/27/2023,12:00,FALSE,FALSE,12/5/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,GI教學總醫師
+"[Imaging Diagnosis]:Brain_lec_71, Introduction to neuroradiological diagnosis,凌憬峰",11/27/2023,一,13:20,11/27/2023,14:10,FALSE,FALSE,12/5/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,凌憬峰
+"[Imaging Diagnosis]:Brain_lec_47, Imaging study of ischemic stroke/hemorrhagic stroke,凌憬峰",11/27/2023,一,14:20,11/27/2023,15:10,FALSE,FALSE,12/5/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,凌憬峰
+"[Pharmacology]:Brain_lec_30, Treatment of central nervous system degenerative disease,葉翰宜",11/27/2023,一,15:30,11/27/2023,16:20,FALSE,FALSE,12/5/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,葉翰宜
+"[Neurology]:Brain_lec_06, Approach to the neurological patients,周建成",11/28/2023,二,9:00,11/28/2023,9:50,FALSE,FALSE,12/6/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,周建成
+"[Neurology]:Brain_lec_80, Neurological examination (1),王署君",11/28/2023,二,10:10,11/28/2023,11:00,FALSE,FALSE,12/6/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王署君
+"[Neurology]:Brain_lec_81, Neurological examination (2),王署君",11/28/2023,二,11:10,11/28/2023,12:00,FALSE,FALSE,12/6/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王署君
+"[Pathology&Laboratory]:GI_lec_47, Liver, gallblader, pancreas,郭盈汝",11/28/2023,二,13:20,11/28/2023,14:10,FALSE,FALSE,12/6/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pathology&Laboratory]:GI_lec_48, Liver, gallblader, pancreas,郭盈汝",11/28/2023,二,14:20,11/28/2023,15:10,FALSE,FALSE,12/6/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pathology&Laboratory]:GI_lec_49, Liver, gallblader, pancreas,郭盈汝",11/28/2023,二,15:30,11/28/2023,16:20,FALSE,FALSE,12/6/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pathology&Laboratory]:GI_lec_50, Liver, gallblader, pancreas,郭盈汝",11/28/2023,二,16:30,11/28/2023,17:20,FALSE,FALSE,12/6/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,郭盈汝
+"[Pharmacology]:Brain_lec_09, Antiseizure drugs (1),王湘翠",11/29/2023,三,8:00,11/29/2023,8:50,FALSE,FALSE,12/7/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王湘翠
+"[Pharmacology]:Brain_lec_10, Antiseizure drugs (2),王湘翠",11/29/2023,三,9:00,11/29/2023,9:50,FALSE,FALSE,12/7/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王湘翠
+"[Neurology]:Brain_lec_32, General introduction of neurosurgery,鄭宏志",11/29/2023,三,10:10,11/29/2023,11:00,FALSE,FALSE,12/7/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,鄭宏志
+"[Neurology]:Brain_lec_36, Disorders of consciousness, coma and brain death,陳俊宇",11/29/2023,三,11:10,11/29/2023,12:00,FALSE,FALSE,12/7/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳俊宇
+"[PAS]:PAS_13, 醫療與社會(B時段),-",11/29/2023,三,13:20,11/29/2023,14:10,FALSE,FALSE,12/7/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_13, 醫療與社會(B時段),-",11/29/2023,三,14:20,11/29/2023,15:10,FALSE,FALSE,12/7/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Neurology]:Brain_lec_12, Headache and facial pain disorders,王嚴鋒",11/29/2023,三,15:30,11/29/2023,16:20,FALSE,FALSE,12/7/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王嚴鋒
+"[Neurology]:Brain_lec_21, Stroke: Pathophysiology and prevention,紀乃方",11/29/2023,三,16:30,11/29/2023,17:20,FALSE,FALSE,12/7/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,紀乃方
+"[Neurology]:Brain_lec_88, Stroke: Diagnosis and management,林浚仁",11/30/2023,四,8:00,11/30/2023,8:50,FALSE,FALSE,12/8/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林浚仁
+"[Neurology]:Brain_lec_15, Surgery for Cerebrovascular diseases,許秉權",11/30/2023,四,9:00,11/30/2023,9:50,FALSE,FALSE,12/8/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許秉權
+"[Neurology]:Brain_lec_31, Traumatic brain and spinal cord injury,楊懷哲",11/30/2023,四,10:10,11/30/2023,11:00,FALSE,FALSE,12/8/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊懷哲
+"[Rehabilitation Medicine]:Brain_lec_44, Rehabilitation of stroke,李思慧",11/30/2023,四,11:10,11/30/2023,12:00,FALSE,FALSE,12/8/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李思慧
+基礎臨床技能訓練課程,11/30/2023,四,13:20,11/30/2023,14:10,FALSE,FALSE,12/8/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/30/2023,四,14:20,11/30/2023,15:10,FALSE,FALSE,12/8/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/30/2023,四,15:30,11/30/2023,16:20,FALSE,FALSE,12/8/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,11/30/2023,四,16:30,11/30/2023,17:20,FALSE,FALSE,12/8/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Neurology]:Brain_lec_25, Dementia,傅中玲",12/1/2023,五,8:00,12/1/2023,8:50,FALSE,FALSE,12/9/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,傅中玲
+"[Neurology]:Brain_lec_37, Parkinson disease and parkinson-plus syndrome,蔣漢琳",12/1/2023,五,9:00,12/1/2023,9:50,FALSE,FALSE,12/9/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔣漢琳
+"[Neurology]:Brain_lec_05, Epilepsy and seizure disorders,尤香玉",12/1/2023,五,10:10,12/1/2023,11:00,FALSE,FALSE,12/9/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,尤香玉
+"[Rehabilitation Medicine]:Brain_lec_45, Rehabilitation of traumatic brain injury,邱然偉",12/1/2023,五,11:10,12/1/2023,12:00,FALSE,FALSE,12/9/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,邱然偉
+PBL-NP01-I,12/1/2023,五,13:20,12/1/2023,14:10,FALSE,FALSE,12/9/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-NP01-I,12/1/2023,五,14:20,12/1/2023,15:10,FALSE,FALSE,12/9/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Neurology]:Brain_lec_26, Surgery for brain tumors,顏玉樹",12/4/2023,一,8:00,12/4/2023,8:50,FALSE,FALSE,12/12/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,顏玉樹
+"[Neurology]:Brain_lec_90, Functional neurosurgery,劉康渡",12/4/2023,一,9:00,12/4/2023,9:50,FALSE,FALSE,12/12/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉康渡
+"[Pharmacology]:Brain_lec_41, General anesthetics & local anesthetics (1),鄒樂起",12/4/2023,一,10:10,12/4/2023,11:00,FALSE,FALSE,12/12/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,鄒樂起
+"[Pharmacology]:Brain_lec_42, General anesthetics & local anesthetics (2),鄒樂起",12/4/2023,一,11:10,12/4/2023,12:00,FALSE,FALSE,12/12/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,鄒樂起
+PBL-NP01-II,12/4/2023,一,13:20,12/4/2023,14:10,FALSE,FALSE,12/12/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-NP01-II,12/4/2023,一,14:20,12/4/2023,15:10,FALSE,FALSE,12/12/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-NP01-II,12/4/2023,一,15:30,12/4/2023,16:20,FALSE,FALSE,12/12/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Neurology]:Brain_lec_16, Technological advances in neurosurgery,李政家",12/5/2023,二,8:00,12/5/2023,8:50,FALSE,FALSE,12/13/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李政家
+"[Neurology]:Brain_lec_01, Approch to Peripheral neuropathy,賴冠霖",12/5/2023,二,9:00,12/5/2023,9:50,FALSE,FALSE,12/13/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,賴冠霖
+"[Pharmacology]:Brain_lec_53, Sedative-hypnotic drugs (1),黃雅嫻",12/5/2023,二,10:10,12/5/2023,11:00,FALSE,FALSE,12/13/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃雅嫻
+"[Pharmacology]:Brain_lec_54, Sedative-hypnotic drugs (2),黃雅嫻",12/5/2023,二,11:10,12/5/2023,12:00,FALSE,FALSE,12/13/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃雅嫻
+"[Pathology&Laboratory]:Brain_lec_93, Central nervous system pathology,林士傑",12/5/2023,二,13:20,12/5/2023,14:10,FALSE,FALSE,12/13/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士傑
+"[Pathology&Laboratory]:Brain_lec_94, Central nervous system pathology,林士傑",12/5/2023,二,14:20,12/5/2023,15:10,FALSE,FALSE,12/13/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士傑
+"[Pathology&Laboratory]:Brain_lec_95, Central nervous system pathology,林士傑",12/5/2023,二,15:30,12/5/2023,16:20,FALSE,FALSE,12/13/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士傑
+"[Pathology&Laboratory]:Brain_lec_96, Central nervous system pathology,林士傑",12/5/2023,二,16:30,12/5/2023,17:20,FALSE,FALSE,12/13/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士傑
+全校運動會(停課),12/6/2023,三,8:00,12/6/2023,8:50,FALSE,FALSE,12/14/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+全校運動會(停課),12/6/2023,三,9:00,12/6/2023,9:50,FALSE,FALSE,12/14/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+全校運動會(停課),12/6/2023,三,10:10,12/6/2023,11:00,FALSE,FALSE,12/14/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+全校運動會(停課),12/6/2023,三,11:10,12/6/2023,12:00,FALSE,FALSE,12/14/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+全校運動會(停課),12/6/2023,三,13:20,12/6/2023,14:10,FALSE,FALSE,12/14/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+全校運動會(停課),12/6/2023,三,14:20,12/6/2023,15:10,FALSE,FALSE,12/14/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+全校運動會(停課),12/6/2023,三,15:30,12/6/2023,16:20,FALSE,FALSE,12/14/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+全校運動會(停課),12/6/2023,三,16:30,12/6/2023,17:20,FALSE,FALSE,12/14/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Neurology]:Brain_lec_22, Myopathy & Motor neuron disease,李宜中",12/7/2023,四,8:00,12/7/2023,8:50,FALSE,FALSE,12/15/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李宜中
+"[Neurology]:Brain_lec_11, CNS autoimmune disease: demyelinating disease & autoimmune encephalitis,廖翊筑",12/7/2023,四,9:00,12/7/2023,9:50,FALSE,FALSE,12/15/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,廖翊筑
+"[Imaging Diagnosis]:Brain_lec_49, Imaging study of spine and spinal cord(1),凌憬峰",12/7/2023,四,10:10,12/7/2023,11:00,FALSE,FALSE,12/15/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,凌憬峰
+"[Imaging Diagnosis]:Brain_lec_51, Imaging study of spine and spinal cord(2),凌憬峰",12/7/2023,四,11:10,12/7/2023,12:00,FALSE,FALSE,12/15/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,凌憬峰
+"[Neurology]:Brain_lec_68, PNS autoimmune disease: MG, inflammatory myopathy, GBS,蕭丞宗",12/7/2023,四,13:20,12/7/2023,14:10,FALSE,FALSE,12/15/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蕭丞宗
+"[Neurology]:Brain_lec_02, Neurogenetic diseases,劉祐岑",12/7/2023,四,14:20,12/7/2023,15:10,FALSE,FALSE,12/15/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉祐岑
+"[Rehabilitation Medicine]:Brain_lec_40, pediatric rehabilitation,楊翠芬",12/7/2023,四,15:30,12/7/2023,16:20,FALSE,FALSE,12/15/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊翠芬
+"[Rehabilitation Medicine]:Brain_lec_46, Rehabilitation of spinal cord injury,蔡昀岸",12/7/2023,四,16:30,12/7/2023,17:20,FALSE,FALSE,12/15/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡昀岸
+"[Neurology]:Brain_lec_91, Surgery for spinal disorders,黃文成",12/8/2023,五,8:00,12/8/2023,8:50,FALSE,FALSE,12/16/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃文成
+"[Neurology]:Brain_lec_92, Pediatric Neurosurgery,吳昭慶",12/8/2023,五,9:00,12/8/2023,9:50,FALSE,FALSE,12/16/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳昭慶
+"[Imaging Diagnosis]:Brain_lec_78, Introduction to interventional neuroradiology,凌憬峰",12/8/2023,五,10:10,12/8/2023,11:00,FALSE,FALSE,12/16/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,凌憬峰
+"[Imaging Diagnosis]:Brain_lec_83, Imaging study of brain tumor,凌憬峰",12/8/2023,五,11:10,12/8/2023,12:00,FALSE,FALSE,12/16/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,凌憬峰
+PBL-NP01-III,12/8/2023,五,13:20,12/8/2023,14:10,FALSE,FALSE,12/16/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-NP01-III,12/8/2023,五,14:20,12/8/2023,15:10,FALSE,FALSE,12/16/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Psychiatry]:Brain_lec_03, Introduction to Psychiatry,白雅美",12/11/2023,一,8:00,12/11/2023,8:50,FALSE,FALSE,12/19/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,白雅美
+"[Psychiatry]:Brain_lec_77, 精神科疾病診斷學,周元華",12/11/2023,一,9:00,12/11/2023,9:50,FALSE,FALSE,12/19/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,周元華
+"[Psychiatry]:Brain_lec_76, Clinical skills in psychiatry,陳麗淇",12/11/2023,一,10:10,12/11/2023,11:00,FALSE,FALSE,12/19/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳麗淇
+PBL-NP02-I,12/11/2023,一,13:20,12/11/2023,14:10,FALSE,FALSE,12/19/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-NP02-I,12/11/2023,一,14:20,12/11/2023,15:10,FALSE,FALSE,12/19/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Psychiatry]:Brain_lec_07, Schizophrenia,白雅美",12/12/2023,二,9:00,12/12/2023,9:50,FALSE,FALSE,12/20/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,白雅美
+"[Psychiatry]:Brain_lec_08, Bipolar disorder,蘇東平",12/12/2023,二,10:10,12/12/2023,11:00,FALSE,FALSE,12/20/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蘇東平
+"[Psychiatry]:Brain_lec_39, Depressive disorder,楊凱鈞",12/12/2023,二,11:10,12/12/2023,12:00,FALSE,FALSE,12/20/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊凱鈞
+"[Pathology&Laboratory]:Brain_lec_97, Central nervous system pathology,林士傑",12/12/2023,二,13:20,12/12/2023,14:10,FALSE,FALSE,12/20/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士傑
+"[Pathology&Laboratory]:Brain_lec_98, Central nervous system pathology,林士傑",12/12/2023,二,14:20,12/12/2023,15:10,FALSE,FALSE,12/20/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士傑
+"[Pharmacology]:Brain_lec_58, 藥理學期末考(1),嚴錦城 許馨文",12/13/2023,三,10:10,12/13/2023,11:00,FALSE,FALSE,12/21/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城 許馨文
+"[Pharmacology]:Brain_lec_59, 藥理學期末考(1),嚴錦城 許馨文",12/13/2023,三,11:10,12/13/2023,12:00,FALSE,FALSE,12/21/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城 許馨文
+"[PAS]:PAS_15, 醫療與社會(B時段),-",12/13/2023,三,13:20,12/13/2023,14:10,FALSE,FALSE,12/21/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_15, 醫療與社會(B時段),-",12/13/2023,三,14:20,12/13/2023,15:10,FALSE,FALSE,12/21/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Psychiatry]:Brain_lec_14, Anxiety disorders,陳牧宏",12/13/2023,三,15:30,12/13/2023,16:20,FALSE,FALSE,12/21/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳牧宏
+"[Psychiatry]:Brain_lec_27, Child and adolescent psychiatry,陳牧宏",12/13/2023,三,16:30,12/13/2023,17:20,FALSE,FALSE,12/21/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳牧宏
+"[Psychiatry]:Brain_lec_13, Geriatric psychiatry,蔡佳芬",12/14/2023,四,9:00,12/14/2023,9:50,FALSE,FALSE,12/22/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡佳芬
+"[Psychiatry]:Brain_lec_87,  Women's mental health,蔡佳芬",12/14/2023,四,10:10,12/14/2023,11:00,FALSE,FALSE,12/22/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡佳芬
+"[Neurology]:Brain_lec_52, PBL-NP01-Case Wrapup,紀乃方",12/14/2023,四,11:10,12/14/2023,12:00,FALSE,FALSE,12/22/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,紀乃方
+"[Psychiatry]:Brain_lec_18, Alcohol and substance related disorders,蔡佳芬",12/14/2023,四,13:20,12/14/2023,14:10,FALSE,FALSE,12/22/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡佳芬
+"[Psychiatry]:Brain_lec_17, Organic mental disorder,沈正哲",12/14/2023,四,14:20,12/14/2023,15:10,FALSE,FALSE,12/22/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,沈正哲
+"[Psychiatry]:Brain_lec_84, Sleep disorder,林韋丞",12/14/2023,四,15:30,12/14/2023,16:20,FALSE,FALSE,12/22/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林韋丞
+"[Nuclear Medicine]:Brain_lec_43, Neuronuclear medicine,李哲皓",12/15/2023,五,8:00,12/15/2023,8:50,FALSE,FALSE,12/23/2005,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李哲皓
+"[Psychiatry]:Brain_lec_86, psychiatric consultation in general medical settin,劉英杰",12/15/2023,五,9:00,12/15/2023,9:50,FALSE,FALSE,12/23/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉英杰
+"[Psychiatry]:Brain_lec_38, Psychiatry rehabilitation,李正達",12/15/2023,五,10:10,12/15/2023,11:00,FALSE,FALSE,12/23/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李正達
+"[Psychiatry]:Brain_lec_33, Theory of personality and psychotherapy,胡力予",12/15/2023,五,11:10,12/15/2023,12:00,FALSE,FALSE,12/23/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,胡力予
+PBL-NP02-II,12/15/2023,五,13:20,12/15/2023,14:10,FALSE,FALSE,12/23/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-NP02-II,12/15/2023,五,14:20,12/15/2023,15:10,FALSE,FALSE,12/23/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-NP02-II,12/15/2023,五,15:30,12/15/2023,16:20,FALSE,FALSE,12/23/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Psychiatry]:Brain_lec_34, Psychotherapy,黃凱琳",12/18/2023,一,9:00,12/18/2023,9:50,FALSE,FALSE,12/26/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃凱琳
+"[Psychiatry]:Brain_lec_23, Psychopharmacology(1),陳牧宏",12/18/2023,一,10:10,12/18/2023,11:00,FALSE,FALSE,12/26/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳牧宏
+"[Psychiatry]:Brain_lec_24, Psychopharmacology(2),劉慕恩",12/18/2023,一,11:10,12/18/2023,12:00,FALSE,FALSE,12/26/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉慕恩
+PBL-NP02-III,12/18/2023,一,13:20,12/18/2023,14:10,FALSE,FALSE,12/26/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-NP02-III,12/18/2023,一,14:20,12/18/2023,15:10,FALSE,FALSE,12/26/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Dermatology]:Integ_lec_16, Papulosquamous disease,黃君瑜",12/19/2023,二,9:00,12/19/2023,9:50,FALSE,FALSE,12/27/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃君瑜
+"[Dermatology]:Integ_lec_14, Skin tumor-1,洪千惠",12/19/2023,二,10:10,12/19/2023,11:00,FALSE,FALSE,12/27/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,洪千惠
+"[Dermatology]:Integ_lec_15, Skin tumor-2,洪千惠",12/19/2023,二,11:10,12/19/2023,12:00,FALSE,FALSE,12/27/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,洪千惠
+"[Psychiatry]:Brain_lec_04, Molecular Psychiatry,洪成志",12/19/2023,二,13:20,12/19/2023,14:10,FALSE,FALSE,12/27/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,洪成志
+"[Psychiatry]:Brain_lec_85, 精神疾病的基因流行病學,藍祚鴻",12/19/2023,二,14:20,12/19/2023,15:10,FALSE,FALSE,12/27/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,藍祚鴻
+"[Introduction to Surgery]:Brain_lec_60, 外科概論考試(1),外科部總醫師",12/20/2023,三,9:00,12/20/2023,9:50,FALSE,FALSE,12/28/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,外科部總醫師
+"[Introduction to Surgery]:Brain_lec_60, 外科概論考試(1),外科部總醫師",12/20/2023,三,10:10,12/20/2023,11:00,FALSE,FALSE,12/28/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,外科部總醫師
+"[Dermatology]:Integ_lec_01, Cosmetic dermatology,李定達",12/20/2023,三,11:10,12/20/2023,12:00,FALSE,FALSE,12/28/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李定達
+"[PAS]:PAS_16, 醫療與社會(B時段),-",12/20/2023,三,13:20,12/20/2023,14:10,FALSE,FALSE,12/28/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_16, 醫療與社會(B時段),-",12/20/2023,三,14:20,12/20/2023,15:10,FALSE,FALSE,12/28/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Dermatology]:Integ_lec_11, Examination of skin lesions,李政源",12/20/2023,三,15:30,12/20/2023,16:20,FALSE,FALSE,12/28/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李政源
+"[Dermatology]:Integ_lec_05, Dermatitis,李政源",12/20/2023,三,16:30,12/20/2023,17:20,FALSE,FALSE,12/28/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李政源
+"[Pharmacology]:Brain_lec_29, Opioid analgesics & antagonists,嚴錦城",12/21/2023,四,9:00,12/21/2023,9:50,FALSE,FALSE,12/29/2005,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Pharmacology]:Brain_lec_19, Drug abuse,嚴錦城",12/21/2023,四,10:10,12/21/2023,11:00,FALSE,FALSE,12/29/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Psychiatry]:Brain_lec_55, PBL-NP02-Case Wrapup,陳牧宏",12/21/2023,四,11:10,12/21/2023,12:00,FALSE,FALSE,12/29/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳牧宏
+"[Dermatology]:Integ_lec_12, Infectious skin disorder-1,黃千耀",12/21/2023,四,13:20,12/21/2023,14:10,FALSE,FALSE,12/29/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃千耀
+"[Dermatology]:Integ_lec_13, Infectious skin disorder-2,黃千耀",12/21/2023,四,14:20,12/21/2023,15:10,FALSE,FALSE,12/29/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃千耀
+"[Introduction to Surgery]:Integ_lec_18, BURNS,王天祥",12/21/2023,四,15:30,12/21/2023,16:20,FALSE,FALSE,12/29/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王天祥
+"[Introduction to Surgery]:Integ_lec_19, Plastic and Reconstructive Surgery,馬旭",12/21/2023,四,16:30,12/21/2023,17:20,FALSE,FALSE,12/29/2005,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,馬旭
+"[Dermatology]:Integ_lec_09, Metabolic skin disorders-1,朱思穎",12/22/2023,五,10:10,12/22/2023,11:00,FALSE,FALSE,12/30/2005,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,朱思穎
+"[Dermatology]:Integ_lec_10, Metabolic skin disorders-2,朱思穎",12/22/2023,五,11:10,12/22/2023,12:00,FALSE,FALSE,12/30/2005,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,朱思穎
+"[Dermatology]:Integ_lec_06, Emerging treatment in dermatology,何翊芯",12/22/2023,五,13:20,12/22/2023,14:10,FALSE,FALSE,12/30/2005,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,何翊芯
+"[Dermatology]:Integ_lec_07, Autoimmune bullous Disease,陳怡如",12/22/2023,五,14:20,12/22/2023,15:10,FALSE,FALSE,12/30/2005,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳怡如
+"[Dermatology]:Integ_lec_08, Cutaneous manifestations of internal medical disor,陳怡如",12/22/2023,五,15:30,12/22/2023,16:20,FALSE,FALSE,12/30/2005,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳怡如
+"[Neurology]:Brain_lec_72, 神經學區段考試,神經科總醫師",12/26/2023,二,13:20,12/26/2023,14:10,FALSE,FALSE,1/3/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,神經科總醫師
+"[Neurology]:Brain_lec_73, 神經學區段考試,神經科總醫師",12/26/2023,二,14:20,12/26/2023,15:10,FALSE,FALSE,1/3/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,神經科總醫師
+"[Dermatology]:Integ_lec_03, Disorder of skin appendage,陳志強",12/27/2023,三,10:10,12/27/2023,11:00,FALSE,FALSE,1/4/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳志強
+"[Dermatology]:Integ_lec_04, Pigmented Disorders,陳志強",12/27/2023,三,11:10,12/27/2023,12:00,FALSE,FALSE,1/4/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳志強
+"[PAS]:PAS_17, 醫療與社會(B時段),-",12/27/2023,三,13:20,12/27/2023,14:10,FALSE,FALSE,1/4/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[PAS]:PAS_17, 醫療與社會(B時段),-",12/27/2023,三,14:20,12/27/2023,15:10,FALSE,FALSE,1/4/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Pathology&Laboratory]:Brain_lec_99, Gross pathology of the disease (大體實驗室),李芬瑤/病理助教",12/28/2023,四,13:20,12/28/2023,14:10,FALSE,FALSE,1/5/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤/病理助教
+"[Pathology&Laboratory]:Brain_lec_100, Gross pathology of the disease (大體實驗室),李芬瑤/病理助教",12/28/2023,四,14:20,12/28/2023,15:10,FALSE,FALSE,1/5/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤/病理助教
+"[Pathology&Laboratory]:Brain_lec_101, Gross pathology of the disease (大體實驗室),李芬瑤/病理助教",12/28/2023,四,15:30,12/28/2023,16:20,FALSE,FALSE,1/5/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤/病理助教
+"[Pathology&Laboratory]:Brain_lec_101+1, Gross pathology of the disease (大體實驗室),李芬瑤/病理助教",12/28/2023,四,16:30,12/28/2023,17:20,FALSE,FALSE,1/5/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤/病理助教
+"[Psychiatry]:Brain_lec_74, 精神醫學區段考試,蔡佳芬",12/29/2023,五,13:20,12/29/2023,14:10,FALSE,FALSE,1/6/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡佳芬
+"[Psychiatry]:Brain_lec_75, 精神醫學區段考試,鄭智銘",12/29/2023,五,14:20,12/29/2023,15:10,FALSE,FALSE,1/6/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,鄭智銘
+開國紀念日調整放假,1/1/2024,一,8:00,1/1/2024,8:50,FALSE,FALSE,1/9/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+開國紀念日調整放假,1/1/2024,一,9:00,1/1/2024,9:50,FALSE,FALSE,1/9/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+開國紀念日調整放假,1/1/2024,一,10:10,1/1/2024,11:00,FALSE,FALSE,1/9/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+開國紀念日調整放假,1/1/2024,一,11:10,1/1/2024,12:00,FALSE,FALSE,1/9/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+開國紀念日調整放假,1/1/2024,一,13:20,1/1/2024,14:10,FALSE,FALSE,1/9/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+開國紀念日調整放假,1/1/2024,一,14:20,1/1/2024,15:10,FALSE,FALSE,1/9/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+開國紀念日調整放假,1/1/2024,一,15:30,1/1/2024,16:20,FALSE,FALSE,1/9/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+開國紀念日調整放假,1/1/2024,一,16:30,1/1/2024,17:20,FALSE,FALSE,1/9/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pathology&Laboratory]:Brain_lec_107, 病理學期末考+實驗考,病理學助教",1/2/2024,二,13:20,1/2/2024,14:10,FALSE,FALSE,1/10/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,病理學助教
+"[Pathology&Laboratory]:Brain_lec_108, 病理學期末考+實驗考,病理學助教",1/2/2024,二,14:20,1/2/2024,15:10,FALSE,FALSE,1/10/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,病理學助教
+"[Dermatology]:Integ_lec_17, 皮膚病學考試,陳志強",1/5/2024,五,13:20,1/5/2024,14:10,FALSE,FALSE,1/13/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳志強
+"[Dermatology]:Integ_lec_17, 皮膚病學考試,陳志強",1/5/2024,五,14:20,1/5/2024,15:10,FALSE,FALSE,1/13/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳志強
+"[Orthopedics]:Musc_lec_31, Basic science of musculoskeletal system & osteoporosis,李光申",2/19/2024,一,9:00,2/19/2024,9:50,FALSE,FALSE,2/27/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李光申
+"[Orthopedics]:Musc_lec_34, Tissue engineering in Orthopedics,王致又",2/19/2024,一,10:10,2/19/2024,11:00,FALSE,FALSE,2/27/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王致又
+"[Nuclear Medicine]:Musc_lec_32, Nuclear medicine in orthopedics,黃文盛",2/19/2024,一,11:10,2/19/2024,12:00,FALSE,FALSE,2/27/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃文盛
+"[Imaging Diagnosis]:Musc_lec_09, Ultrasound in musculoskeletal disease,邱宏仁",2/20/2024,二,8:00,2/20/2024,8:50,FALSE,FALSE,2/28/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,邱宏仁
+"[Rehabilitation Medicine]:Musc_lec_21, Rehabilitation of Sports Injury,高崇蘭",2/20/2024,二,9:00,2/20/2024,9:50,FALSE,FALSE,2/28/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,高崇蘭
+"[Imaging Diagnosis]:Musc_lec_12, Imaging Diagnosis of Musculoskeletal Diseases： Radiology（I）Bone and Joint Diseases,吳宏達",2/20/2024,二,10:10,2/20/2024,11:00,FALSE,FALSE,2/28/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳宏達
+"[Imaging Diagnosis]:Musc_lec_20, Imaging Diagnosis of Musculoskeletal Diseases： Radiology（II）Sports Injury,吳宏達",2/20/2024,二,11:10,2/20/2024,12:00,FALSE,FALSE,2/28/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳宏達
+"[Pathology&Laboratory]:Musc_lec_58, Bone, Joint, Soft tissue,王蕾琪",2/20/2024,二,13:20,2/20/2024,14:10,FALSE,FALSE,2/28/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王蕾琪
+"[Pathology&Laboratory]:Musc_lec_59, Bone, Joint, Soft tissue,王蕾琪",2/20/2024,二,14:20,2/20/2024,15:10,FALSE,FALSE,2/28/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王蕾琪
+"[Pathology&Laboratory]:Musc_lec_60, Bone, Joint, Soft tissue,王蕾琪",2/20/2024,二,15:30,2/20/2024,16:20,FALSE,FALSE,2/28/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王蕾琪
+"[Pathology&Laboratory]:Musc_lec_61, Bone, Joint, Soft tissue,王蕾琪",2/20/2024,二,16:30,2/20/2024,17:20,FALSE,FALSE,2/28/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王蕾琪
+"[Orthopedics]:Musc_lec_02, Biomechanics in orthopedics,林育寬",2/21/2024,三,9:00,2/21/2024,9:50,FALSE,FALSE,3/1/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林育寬
+"[Orthopedics]:Musc_lec_57, Pediatric orthopaedics: spine disorder,奉季光",2/21/2024,三,11:10,2/21/2024,12:00,FALSE,FALSE,3/1/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,奉季光
+"[Orthopedics]:Musc_lec_38, Pediatric orthopaedics: dysplasia and deformity,張維寧",2/21/2024,三,13:20,2/21/2024,14:10,FALSE,FALSE,3/1/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張維寧
+[選修]整合醫學暨中醫學現代進展,2/21/2024,三,15:30,2/21/2024,16:20,FALSE,FALSE,3/1/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,2/21/2024,三,16:30,2/21/2024,17:20,FALSE,FALSE,3/1/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Orthopedics]:Musc_lec_26, Hand Surgery (II),黃意超",2/22/2024,四,8:00,2/22/2024,8:50,FALSE,FALSE,3/2/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃意超
+"[Orthopedics]:Musc_lec_01, Pediatric orthopaedics: growth, development, injury,蘇宇平",2/22/2024,四,9:00,2/22/2024,9:50,FALSE,FALSE,3/2/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蘇宇平
+"[Orthopedics]:Musc_lec_30, Orthopaedic trauma: principles of management,蘇宇平",2/22/2024,四,10:10,2/22/2024,11:00,FALSE,FALSE,3/2/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蘇宇平
+"[Orthopedics]:Musc_lec_22, Orthopaedic trauma: lower extremities,蘇宇平",2/22/2024,四,11:10,2/22/2024,12:00,FALSE,FALSE,3/2/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蘇宇平
+[選修]藥理學實驗,2/22/2024,四,13:20,2/22/2024,14:10,FALSE,FALSE,3/2/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,2/22/2024,四,14:20,2/22/2024,15:10,FALSE,FALSE,3/2/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,2/22/2024,四,15:30,2/22/2024,16:20,FALSE,FALSE,3/2/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,2/22/2024,四,16:30,2/22/2024,17:20,FALSE,FALSE,3/2/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Orthopedics]:Musc_lec_25, Orthopaedic trauma: upper extremities,江昭慶",2/23/2024,五,10:10,2/23/2024,11:00,FALSE,FALSE,3/3/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,江昭慶
+"[Orthopedics]:Musc_lec_35, Spine (I),王世典",2/23/2024,五,11:10,2/23/2024,12:00,FALSE,FALSE,3/3/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王世典
+"[Pharmacology]:Musc_lec_11, Histamine and antihistamines,王湘翠",2/23/2024,五,13:20,2/23/2024,14:10,FALSE,FALSE,3/3/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王湘翠
+"[Pharmacology]:Musc_lec_10, Analgesic - Antipyretics and Antiinflammatory Agents,嚴錦城",2/23/2024,五,14:20,2/23/2024,15:10,FALSE,FALSE,3/3/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Orthopedics]:Musc_lec_36, Spine (II),周伯鑫",2/26/2024,一,9:00,2/26/2024,9:50,FALSE,FALSE,3/6/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,周伯鑫
+"[Orthopedics]:Musc_lec_56, Spine(III),姚又誠",2/26/2024,一,10:10,2/26/2024,11:00,FALSE,FALSE,3/6/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,姚又誠
+"[Radiotherapy]:Musc_lec_28, Radiotherapy for Sarcoma and bone tumor,賴姿妤",2/26/2024,一,11:10,2/26/2024,12:00,FALSE,FALSE,3/6/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,賴姿妤
+PBL-ORTH01-I,2/26/2024,一,13:20,2/26/2024,14:10,FALSE,FALSE,3/6/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-ORTH01-I,2/26/2024,一,14:20,2/26/2024,15:10,FALSE,FALSE,3/6/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Orthopedics]:Musc_lec_55, Joint disease and adult reconstruction (I),陳正豐",2/27/2024,二,9:00,2/27/2024,9:50,FALSE,FALSE,3/7/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳正豐
+"[Orthopedics]:Musc_lec_18, Sports Orthopaedics (I),馬筱笠",2/27/2024,二,10:10,2/27/2024,11:00,FALSE,FALSE,3/7/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,馬筱笠
+"[Orthopedics]:Musc_lec_37, Joint disease and adult reconstruction (II),蔡尚聞",2/27/2024,二,11:10,2/27/2024,12:00,FALSE,FALSE,3/7/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡尚聞
+"[Orthopedics]:Musc_lec_19, Sports Orthopaedics (II),蔣恩榮",2/27/2024,二,13:20,2/27/2024,14:10,FALSE,FALSE,3/7/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔣恩榮
+"[Rehabilitation Medicine]:Musc_lec_24,  Rehabilitation of Tendon and Myofascial Disorders,王建智",2/27/2024,二,14:20,2/27/2024,15:10,FALSE,FALSE,3/7/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王建智
+"[Imaging Diagnosis]:Musc_lec_27, Imaging Diagnosis of Musculoskeletal Diseases： Radiology（III）Bone Tumor,吳宏達",2/27/2024,二,15:30,2/27/2024,16:20,FALSE,FALSE,3/7/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳宏達
+"[Orthopedics]:Musc_lec_06, Hand Surgery (I),王榮磻",2/27/2024,二,16:30,2/27/2024,17:20,FALSE,FALSE,3/7/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王榮磻
+和平紀念日(放假一天),2/28/2024,三,8:00,2/28/2024,8:50,FALSE,FALSE,3/8/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+和平紀念日(放假一天),2/28/2024,三,9:00,2/28/2024,9:50,FALSE,FALSE,3/8/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+和平紀念日(放假一天),2/28/2024,三,10:10,2/28/2024,11:00,FALSE,FALSE,3/8/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+和平紀念日(放假一天),2/28/2024,三,11:10,2/28/2024,12:00,FALSE,FALSE,3/8/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+和平紀念日(放假一天),2/28/2024,三,13:20,2/28/2024,14:10,FALSE,FALSE,3/8/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+和平紀念日(放假一天),2/28/2024,三,14:20,2/28/2024,15:10,FALSE,FALSE,3/8/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+和平紀念日(放假一天),2/28/2024,三,15:30,2/28/2024,16:20,FALSE,FALSE,3/8/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+和平紀念日(放假一天),2/28/2024,三,16:30,2/28/2024,17:20,FALSE,FALSE,3/8/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Orthopedics]:Musc_lec_15, Computer-assisted orthopedic surgery,陳昭銘",2/29/2024,四,9:00,2/29/2024,9:50,FALSE,FALSE,3/9/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳昭銘
+"[Rehabilitation Medicine]:Musc_lec_08, Rehabilitation principles  of orthopaedics,劉鼎浩",2/29/2024,四,10:10,2/29/2024,11:00,FALSE,FALSE,3/9/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉鼎浩
+[選修]藥理學實驗,2/29/2024,四,13:20,2/29/2024,14:10,FALSE,FALSE,3/9/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,2/29/2024,四,14:20,2/29/2024,15:10,FALSE,FALSE,3/9/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,2/29/2024,四,15:30,2/29/2024,16:20,FALSE,FALSE,3/9/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,2/29/2024,四,16:30,2/29/2024,17:20,FALSE,FALSE,3/9/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Orthopedics]:Musc_lec_33, Musuloskeletal oncology (I),吳博貴",3/1/2024,五,9:00,3/1/2024,9:50,FALSE,FALSE,3/10/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳博貴
+"[Orthopedics]:Musc_lec_39, Musuloskeletal oncology (II),吳博貴",3/1/2024,五,10:10,3/1/2024,11:00,FALSE,FALSE,3/10/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳博貴
+"[Rehabilitation Medicine]:Musc_lec_07, Rehabilitation of ?bone and joint Diseases,孫淑芬",3/1/2024,五,11:10,3/1/2024,12:00,FALSE,FALSE,3/10/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,孫淑芬
+PBL-ORTH01-II,3/1/2024,五,13:20,3/1/2024,14:10,FALSE,FALSE,3/10/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-ORTH01-II,3/1/2024,五,14:20,3/1/2024,15:10,FALSE,FALSE,3/10/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Allergy, Immunology, & Rheumatology]:AII_lec_05, Introduction to immune and rheumatic diseases,蔡長祐",3/4/2024,一,9:00,3/4/2024,9:50,FALSE,FALSE,3/13/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡長祐
+"[Allergy, Immunology, & Rheumatology]:AII_lec_12, Immunosuppressants for autoimmune diseases,蔡長祐",3/4/2024,一,10:10,3/4/2024,11:00,FALSE,FALSE,3/13/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡長祐
+PBL-ORTH01-III,3/4/2024,一,13:20,3/4/2024,14:10,FALSE,FALSE,3/13/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-ORTH01-III,3/4/2024,一,14:20,3/4/2024,15:10,FALSE,FALSE,3/13/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Allergy, Immunology, & Rheumatology]:AII_lec_61, How to manage rheumatic diseases,曹彥博",3/5/2024,二,9:00,3/5/2024,9:50,FALSE,FALSE,3/14/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,曹彥博
+"[Allergy, Immunology, & Rheumatology]:AII_lec_52, SKILL-過敏免疫風濕系統臨床技巧,曹彥博",3/5/2024,二,10:10,3/5/2024,11:00,FALSE,FALSE,3/14/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,曹彥博
+"[Orthopedics]:Musc_lec_40, PBL-ORTH01-Case Wrapup,張文杰",3/5/2024,二,11:10,3/5/2024,12:00,FALSE,FALSE,3/14/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張文杰
+"[Allergy, Immunology, & Rheumatology]:AII_lec_26, Systemic sclerosis/mixed connective tissue disease,賴建志",3/5/2024,二,13:20,3/5/2024,14:10,FALSE,FALSE,3/14/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,賴建志
+"[Allergy, Immunology, & Rheumatology]:AII_lec_21, Benign lymphoproliferative diseases and Behcet's disease,賴建志",3/5/2024,二,14:20,3/5/2024,15:10,FALSE,FALSE,3/14/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,賴建志
+"[Rehabilitation Medicine]:Musc_lec_05, Rehabilitation for the post-surgical patients,程遠揚",3/5/2024,二,15:30,3/5/2024,16:20,FALSE,FALSE,3/14/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,程遠揚
+"[Allergy, Immunology, & Rheumatology]:AII_lec_08, SLE,陳瑋昇",3/6/2024,三,10:10,3/6/2024,11:00,FALSE,FALSE,3/15/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳瑋昇
+"[Allergy, Immunology, & Rheumatology]:AII_lec_01, Musculoskeletal ultrasonography for rheumatic Diseases,陳瑋昇",3/6/2024,三,11:10,3/6/2024,12:00,FALSE,FALSE,3/15/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳瑋昇
+[選修]整合醫學暨中醫學現代進展,3/6/2024,三,15:30,3/6/2024,16:20,FALSE,FALSE,3/15/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,3/6/2024,三,16:30,3/6/2024,17:20,FALSE,FALSE,3/15/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Allergy, Immunology, & Rheumatology]:AII_lec_07, Drug allergy & allied diseases,陳怡行",3/7/2024,四,11:10,3/7/2024,12:00,FALSE,FALSE,3/16/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳怡行
+基礎臨床技能訓練課程,3/7/2024,四,13:20,3/7/2024,14:10,FALSE,FALSE,3/16/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,3/7/2024,四,14:20,3/7/2024,15:10,FALSE,FALSE,3/16/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,3/7/2024,四,15:30,3/7/2024,16:20,FALSE,FALSE,3/16/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,3/7/2024,四,16:30,3/7/2024,17:20,FALSE,FALSE,3/16/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Orthopedics]:Musc_lec_46, 骨骼關節學區段考試,骨科部總醫師",3/8/2024,五,13:20,3/8/2024,14:10,FALSE,FALSE,3/17/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,骨科部總醫師
+"[Orthopedics]:Musc_lec_47, 骨骼關節學區段考試,骨科部總醫師",3/8/2024,五,14:20,3/8/2024,15:10,FALSE,FALSE,3/17/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,骨科部總醫師
+"[Allergy, Immunology, & Rheumatology]:AII_lec_02, Fibromyalgia, complex regional pain syndrome and traditional medicine for rheumatic diseases,龔彥穎",3/11/2024,一,11:10,3/11/2024,12:00,FALSE,FALSE,3/20/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,龔彥穎
+PBL-AII01-I,3/11/2024,一,13:20,3/11/2024,14:10,FALSE,FALSE,3/20/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-AII01-I,3/11/2024,一,14:20,3/11/2024,15:10,FALSE,FALSE,3/20/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Rehabilitation Medicine]:AII_lec_60,  Rehabilitation of Low Back Pain and Neck Pain,高崇蘭",3/12/2024,二,9:00,3/12/2024,9:50,FALSE,FALSE,3/21/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,高崇蘭
+"[Allergy, Immunology, & Rheumatology]:AII_lec_13, Laboratory diagnosis for rheumatic diseases,張德明",3/12/2024,二,10:10,3/12/2024,11:00,FALSE,FALSE,3/21/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張德明
+"[Allergy, Immunology, & Rheumatology]:AII_lec_04, Rheumatoid arthritis,張德明",3/12/2024,二,11:10,3/12/2024,12:00,FALSE,FALSE,3/21/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張德明
+"[Pathology&Laboratory]:AII_lec_54, Neoplasia,王蕾琪",3/12/2024,二,13:20,3/12/2024,14:10,FALSE,FALSE,3/21/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王蕾琪
+"[Pathology&Laboratory]:AII_lec_62, Neoplasia,王蕾琪",3/12/2024,二,14:20,3/12/2024,15:10,FALSE,FALSE,3/21/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王蕾琪
+"[Allergy, Immunology, & Rheumatology]:AII_lec_23, Scientific basis of rheumatic diseases,廖顯宗",3/12/2024,二,15:30,3/12/2024,16:20,FALSE,FALSE,3/21/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,廖顯宗
+"[Allergy, Immunology, & Rheumatology]:AII_lec_14, Seronegative spondyloarthropathies and allied diseases,廖顯宗",3/12/2024,二,16:30,3/12/2024,17:20,FALSE,FALSE,3/21/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,廖顯宗
+"[Allergy, Immunology, & Rheumatology]:AII_lec_25, Sj?gren's syndrome and autoimmune interstitial lung diseases,陳明翰",3/13/2024,三,10:10,3/13/2024,11:00,FALSE,FALSE,3/22/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳明翰
+"[Allergy, Immunology, & Rheumatology]:AII_lec_09, Polymyositis and dermatomyositis,陳明翰",3/13/2024,三,11:10,3/13/2024,12:00,FALSE,FALSE,3/22/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳明翰
+[選修]整合醫學暨中醫學現代進展,3/13/2024,三,15:30,3/13/2024,16:20,FALSE,FALSE,3/22/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,3/13/2024,三,16:30,3/13/2024,17:20,FALSE,FALSE,3/22/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Introduction to Surgery]:AII_lec_57, Surgical Complications,黃國宏",3/14/2024,四,10:10,3/14/2024,11:00,FALSE,FALSE,3/23/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃國宏
+"[Allergy, Immunology, & Rheumatology]:AII_lec_03, Vasculitis,謝祖怡",3/14/2024,四,11:10,3/14/2024,12:00,FALSE,FALSE,3/23/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,謝祖怡
+[選修]藥理學實驗,3/14/2024,四,13:20,3/14/2024,14:10,FALSE,FALSE,3/23/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,3/14/2024,四,14:20,3/14/2024,15:10,FALSE,FALSE,3/23/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,3/14/2024,四,15:30,3/14/2024,16:20,FALSE,FALSE,3/23/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,3/14/2024,四,16:30,3/14/2024,17:20,FALSE,FALSE,3/23/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Imaging Diagnosis]:AII_lec_58, Image in rheumatic disease,吳慶蘭",3/15/2024,五,9:00,3/15/2024,9:50,FALSE,FALSE,3/24/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳慶蘭
+"[Allergy, Immunology, & Rheumatology]:AII_lec_10, IgG4-related disease,蔡弘正",3/15/2024,五,10:10,3/15/2024,11:00,FALSE,FALSE,3/24/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡弘正
+"[Allergy, Immunology, & Rheumatology]:AII_lec_16, Osteoarthritis & Osteoporosis,蔡弘正",3/15/2024,五,11:10,3/15/2024,12:00,FALSE,FALSE,3/24/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡弘正
+PBL-AII01-II,3/15/2024,五,13:20,3/15/2024,14:10,FALSE,FALSE,3/24/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-AII01-II,3/15/2024,五,14:20,3/15/2024,15:10,FALSE,FALSE,3/24/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Introduction to Surgery]:AII_lec_27, 器官移植概論(1),林釀呈",3/18/2024,一,10:10,3/18/2024,11:00,FALSE,FALSE,3/27/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林釀呈
+"[Allergy, Immunology, & Rheumatology]:AII_lec_11, Gout and other crystalline induced arthritis,陳信華",3/18/2024,一,11:10,3/18/2024,12:00,FALSE,FALSE,3/27/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳信華
+PBL-AII01-III,3/18/2024,一,13:20,3/18/2024,14:10,FALSE,FALSE,3/27/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-AII01-III,3/18/2024,一,14:20,3/18/2024,15:10,FALSE,FALSE,3/27/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Allergy, Immunology, & Rheumatology]:AII_lec_29, Infectious arthritis and infectious diseases in autoimmune patients,孫易暄",3/19/2024,二,9:00,3/19/2024,9:50,FALSE,FALSE,3/28/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,孫易暄
+"[Pharmacology]:AII_lec_19, Immunopharmacology (1),陳斯婷",3/19/2024,二,10:10,3/19/2024,11:00,FALSE,FALSE,3/28/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳斯婷
+"[Pharmacology]:AII_lec_20, Immunopharmacology (2),陳斯婷",3/19/2024,二,11:10,3/19/2024,12:00,FALSE,FALSE,3/28/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳斯婷
+"[Pathology&Laboratory]:AII_lec_55, Acute and chronic inflammation:tissue repair,許志怡",3/19/2024,二,13:20,3/19/2024,14:10,FALSE,FALSE,3/28/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許志怡
+"[Pathology&Laboratory]:AII_lec_56, Acute and chronic inflammation:tissue repair,許志怡",3/19/2024,二,14:20,3/19/2024,15:10,FALSE,FALSE,3/28/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許志怡
+"[Allergy, Immunology, & Rheumatology]:AII_lec_44, PBL-AIR01-Case Wrapup,蔡弘正",3/20/2024,三,9:00,3/20/2024,9:50,FALSE,FALSE,3/29/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡弘正
+"[Introduction to Surgery]:AII_lec_45, 器官移植概論(2),陳正彥",3/20/2024,三,10:10,3/20/2024,11:00,FALSE,FALSE,3/29/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳正彥
+"[Introduction to Surgery]:AII_lec_68, Trauma,王鑑瀛",3/20/2024,三,11:10,3/20/2024,12:00,FALSE,FALSE,3/29/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王鑑瀛
+[選修]整合醫學暨中醫學現代進展,3/20/2024,三,15:30,3/20/2024,16:20,FALSE,FALSE,3/29/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,3/20/2024,三,16:30,3/20/2024,17:20,FALSE,FALSE,3/29/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,3/21/2024,四,13:20,3/21/2024,14:10,FALSE,FALSE,3/30/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,3/21/2024,四,14:20,3/21/2024,15:10,FALSE,FALSE,3/30/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,3/21/2024,四,15:30,3/21/2024,16:20,FALSE,FALSE,3/30/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,3/21/2024,四,16:30,3/21/2024,17:20,FALSE,FALSE,3/30/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Allergy, Immunology, & Rheumatology]:AII_lec_50, 免疫病學區段考試,AIR總醫師",3/22/2024,五,13:20,3/22/2024,14:10,FALSE,FALSE,3/31/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,AIR總醫師
+"[Allergy, Immunology, & Rheumatology]:AII_lec_50, 免疫病學區段考試,AIR總醫師",3/22/2024,五,14:20,3/22/2024,15:10,FALSE,FALSE,3/31/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,AIR總醫師
+"[Infectious Diseases]:AII_lec_37, Bone & joint infection,巫炳峰",3/25/2024,一,10:10,3/25/2024,11:00,FALSE,FALSE,4/3/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,巫炳峰
+"[Infectious Diseases]:AII_lec_42, Urinay tract infection,李欣蓉",3/25/2024,一,11:10,3/25/2024,12:00,FALSE,FALSE,4/3/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李欣蓉
+PBL-INF01-I,3/25/2024,一,13:20,3/25/2024,14:10,FALSE,FALSE,4/3/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-INF01-I,3/25/2024,一,14:20,3/25/2024,15:10,FALSE,FALSE,4/3/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Infectious Diseases]:AII_lec_32, Respiratory tract infection and COVID-19,陳昕白",3/26/2024,二,9:00,3/26/2024,9:50,FALSE,FALSE,4/4/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳昕白
+"[Infectious Diseases]:AII_lec_40, COVID-19 treatment and vaccine,林邑璁",3/26/2024,二,10:10,3/26/2024,11:00,FALSE,FALSE,4/4/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林邑璁
+"[Infectious Diseases]:AII_lec_17, Fever of unknown origin,林邑璁",3/26/2024,二,11:10,3/26/2024,12:00,FALSE,FALSE,4/4/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林邑璁
+"[Pathology&Laboratory]:FERGU_lec_63, The female genital tract and breast(1),林士堯",3/26/2024,二,13:20,3/26/2024,14:10,FALSE,FALSE,4/4/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士堯
+"[Pathology&Laboratory]:FERGU_lec_64, The female genital tract and breast(2),林士堯",3/26/2024,二,14:20,3/26/2024,15:10,FALSE,FALSE,4/4/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士堯
+"[Pathology&Laboratory]:FERGU_lec_65, The female genital tract and breast(3),林士堯",3/26/2024,二,15:30,3/26/2024,16:20,FALSE,FALSE,4/4/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士堯
+"[Pathology&Laboratory]:FERGU_lec_65+1, The female genital tract and breast(3),林士堯",3/26/2024,二,16:30,3/26/2024,17:20,FALSE,FALSE,4/4/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士堯
+"[Pharmacology]:AII_lec_43, Antifungal agents,王湘翠",3/27/2024,三,9:00,3/27/2024,9:50,FALSE,FALSE,4/5/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王湘翠
+"[Pharmacology]:AII_lec_30, Anti-parasite drugs,嚴錦城",3/27/2024,三,10:10,3/27/2024,11:00,FALSE,FALSE,4/5/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城
+"[Infectious Diseases]:AII_lec_39, skin & soft tissue infection,吳冠陞",3/27/2024,三,11:10,3/27/2024,12:00,FALSE,FALSE,4/5/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳冠陞
+"[Infectious Diseases]:AII_lec_33, Sepsis,黃祥芬",3/27/2024,三,13:20,3/27/2024,14:10,FALSE,FALSE,4/5/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃祥芬
+[選修]整合醫學暨中醫學現代進展,3/27/2024,三,15:30,3/27/2024,16:20,FALSE,FALSE,4/5/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,3/27/2024,三,16:30,3/27/2024,17:20,FALSE,FALSE,4/5/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Infectious Diseases]:AII_lec_34, CNS infection,徐靖浩",3/28/2024,四,9:00,3/28/2024,9:50,FALSE,FALSE,4/6/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,徐靖浩
+"[Infectious Diseases]:AII_lec_53, Infective endocarditis,許仁毓",3/28/2024,四,10:10,3/28/2024,11:00,FALSE,FALSE,4/6/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許仁毓
+"[Infectious Diseases]:AII_lec_38, AIDS,王建淳",3/28/2024,四,11:10,3/28/2024,12:00,FALSE,FALSE,4/6/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王建淳
+[選修]藥理學實驗,3/28/2024,四,13:20,3/28/2024,14:10,FALSE,FALSE,4/6/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,3/28/2024,四,14:20,3/28/2024,15:10,FALSE,FALSE,4/6/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,3/28/2024,四,15:30,3/28/2024,16:20,FALSE,FALSE,4/6/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,3/28/2024,四,16:30,3/28/2024,17:20,FALSE,FALSE,4/6/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Infectious Diseases]:AII_lec_31, Nosocomial infection & infection control,阮志翰",3/29/2024,五,9:00,3/29/2024,9:50,FALSE,FALSE,4/7/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,阮志翰
+"[Infectious Diseases]:AII_lec_35, Intra-abdominal infection,陳夙容",3/29/2024,五,10:10,3/29/2024,11:00,FALSE,FALSE,4/7/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳夙容
+"[Introduction to Surgery]:AII_lec_69, Surgery in the Geriatrics,林宏鑫",3/29/2024,五,11:10,3/29/2024,12:00,FALSE,FALSE,4/7/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林宏鑫
+PBL-INF01-II,3/29/2024,五,13:20,3/29/2024,14:10,FALSE,FALSE,4/7/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-INF01-II,3/29/2024,五,14:20,3/29/2024,15:10,FALSE,FALSE,4/7/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Infectious Diseases]:AII_lec_18, Viral infection,詹宇鈞",4/1/2024,一,10:10,4/1/2024,11:00,FALSE,FALSE,4/10/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,詹宇鈞
+"[Infectious Diseases]:AII_lec_41, Systemic fungal Infection,莊茜",4/1/2024,一,11:10,4/1/2024,12:00,FALSE,FALSE,4/10/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,莊茜
+PBL-INF01-III,4/1/2024,一,13:20,4/1/2024,14:10,FALSE,FALSE,4/10/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-INF01-III,4/1/2024,一,14:20,4/1/2024,15:10,FALSE,FALSE,4/10/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+一對一訪談,4/1/2024,一,15:30,4/1/2024,16:20,FALSE,FALSE,4/10/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pharmacology]:AII_lec_22, Antibiotics (1),兵岳忻",4/2/2024,二,9:00,4/2/2024,9:50,FALSE,FALSE,4/11/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,兵岳忻
+"[Pharmacology]:AII_lec_24, Antibiotics (2); Antiviral agents,兵岳忻",4/2/2024,二,10:10,4/2/2024,11:00,FALSE,FALSE,4/11/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,兵岳忻
+"[Infectious Diseases]:AII_lec_48, PBL-INF01-Case Wrapup,莊茜",4/2/2024,二,11:10,4/2/2024,12:00,FALSE,FALSE,4/11/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,莊茜
+"[Pathology&Laboratory]:FERGU_lec_66, The female genital tract and breast(4),林士堯",4/2/2024,二,13:20,4/2/2024,14:10,FALSE,FALSE,4/11/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士堯
+"[Pathology&Laboratory]:FERGU_lec_67, The female genital tract and breast(5),林士堯",4/2/2024,二,14:20,4/2/2024,15:10,FALSE,FALSE,4/11/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士堯
+"[Pathology&Laboratory]:FERGU_lec_68, The female genital tract and breast(6),林士堯",4/2/2024,二,15:30,4/2/2024,16:20,FALSE,FALSE,4/11/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士堯
+"[Pathology&Laboratory]:FERGU_lec_68+1, The female genital tract and breast(6),林士堯",4/2/2024,二,16:30,4/2/2024,17:20,FALSE,FALSE,4/11/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林士堯
+校際活動週,4/3/2024,三,8:00,4/3/2024,8:50,FALSE,FALSE,4/12/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+校際活動週,4/3/2024,三,9:00,4/3/2024,9:50,FALSE,FALSE,4/12/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+校際活動週,4/3/2024,三,10:10,4/3/2024,11:00,FALSE,FALSE,4/12/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+校際活動週,4/3/2024,三,11:10,4/3/2024,12:00,FALSE,FALSE,4/12/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+校際活動週,4/3/2024,三,13:20,4/3/2024,14:10,FALSE,FALSE,4/12/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+校際活動週,4/3/2024,三,14:20,4/3/2024,15:10,FALSE,FALSE,4/12/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+校際活動週,4/3/2024,三,15:30,4/3/2024,16:20,FALSE,FALSE,4/12/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+校際活動週,4/3/2024,三,16:30,4/3/2024,17:20,FALSE,FALSE,4/12/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+兒童節,4/4/2024,四,8:00,4/4/2024,8:50,FALSE,FALSE,4/13/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+兒童節,4/4/2024,四,9:00,4/4/2024,9:50,FALSE,FALSE,4/13/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+兒童節,4/4/2024,四,10:10,4/4/2024,11:00,FALSE,FALSE,4/13/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+兒童節,4/4/2024,四,11:10,4/4/2024,12:00,FALSE,FALSE,4/13/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+兒童節,4/4/2024,四,13:20,4/4/2024,14:10,FALSE,FALSE,4/13/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+兒童節,4/4/2024,四,14:20,4/4/2024,15:10,FALSE,FALSE,4/13/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+兒童節,4/4/2024,四,15:30,4/4/2024,16:20,FALSE,FALSE,4/13/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+兒童節,4/4/2024,四,16:30,4/4/2024,17:20,FALSE,FALSE,4/13/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+民族掃墓節,4/5/2024,五,8:00,4/5/2024,8:50,FALSE,FALSE,4/14/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+民族掃墓節,4/5/2024,五,9:00,4/5/2024,9:50,FALSE,FALSE,4/14/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+民族掃墓節,4/5/2024,五,10:10,4/5/2024,11:00,FALSE,FALSE,4/14/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+民族掃墓節,4/5/2024,五,11:10,4/5/2024,12:00,FALSE,FALSE,4/14/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+民族掃墓節,4/5/2024,五,13:20,4/5/2024,14:10,FALSE,FALSE,4/14/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+民族掃墓節,4/5/2024,五,14:20,4/5/2024,15:10,FALSE,FALSE,4/14/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+民族掃墓節,4/5/2024,五,15:30,4/5/2024,16:20,FALSE,FALSE,4/14/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+民族掃墓節,4/5/2024,五,16:30,4/5/2024,17:20,FALSE,FALSE,4/14/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pharmacology]:AII_lec_66, 藥理學期中考,嚴錦城 許馨文",4/8/2024,一,13:20,4/8/2024,14:10,FALSE,FALSE,4/17/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城 許馨文
+"[Pharmacology]:AII_lec_67, 藥理學期中考,嚴錦城 許馨文",4/8/2024,一,14:20,4/8/2024,15:10,FALSE,FALSE,4/17/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城 許馨文
+[選修]整合醫學暨中醫學現代進展,4/10/2024,三,15:30,4/10/2024,16:20,FALSE,FALSE,4/19/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,4/10/2024,三,16:30,4/10/2024,17:20,FALSE,FALSE,4/19/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pharmacology]:FERGU_lec_25, Diuretics,陳聿歆",4/11/2024,四,11:10,4/11/2024,12:00,FALSE,FALSE,4/20/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳聿歆
+基礎臨床技能訓練課程,4/11/2024,四,13:20,4/11/2024,14:10,FALSE,FALSE,4/20/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,4/11/2024,四,14:20,4/11/2024,15:10,FALSE,FALSE,4/20/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,4/11/2024,四,15:30,4/11/2024,16:20,FALSE,FALSE,4/20/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,4/11/2024,四,16:30,4/11/2024,17:20,FALSE,FALSE,4/20/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Infectious Diseases]:AII_lec_49, 感染病學考試,林邑璁",4/12/2024,五,13:20,4/12/2024,14:10,FALSE,FALSE,4/21/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林邑璁
+"[Infectious Diseases]:AII_lec_49, 感染病學考試,林邑璁",4/12/2024,五,14:20,4/12/2024,15:10,FALSE,FALSE,4/21/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林邑璁
+"[Nephrology]:FERGU_lec_01, Sodium Disorders,林志慶",4/15/2024,一,10:10,4/15/2024,11:00,FALSE,FALSE,4/24/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林志慶
+"[Nephrology]:FERGU_lec_18, Potassium Disorders,林志慶",4/15/2024,一,11:10,4/15/2024,12:00,FALSE,FALSE,4/24/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林志慶
+PBL-FERGU01-I,4/15/2024,一,13:20,4/15/2024,14:10,FALSE,FALSE,4/24/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-FERGU01-I,4/15/2024,一,14:20,4/15/2024,15:10,FALSE,FALSE,4/24/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Nephrology]:FERGU_lec_05, Renal Nutrition in CKD,蔡明村",4/16/2024,二,9:00,4/16/2024,9:50,FALSE,FALSE,4/25/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡明村
+"[Nephrology]:FERGU_lec_14, Chronic Kidney Disease & Dialysis Therapy,楊智宇",4/16/2024,二,10:10,4/16/2024,11:00,FALSE,FALSE,4/25/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊智宇
+"[Nephrology]:FERGU_lec_15, Clinical Skills-腎臟醫學臨床技巧,楊智宇",4/16/2024,二,11:10,4/16/2024,12:00,FALSE,FALSE,4/25/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊智宇
+"[Pathology&Laboratory]:FERGU_lec_58, The urinary system (1),張富邦",4/16/2024,二,13:20,4/16/2024,14:10,FALSE,FALSE,4/25/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Pathology&Laboratory]:FERGU_lec_59, The urinary system (2),張富邦",4/16/2024,二,14:20,4/16/2024,15:10,FALSE,FALSE,4/25/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Pathology&Laboratory]:FERGU_lec_60, The urinary system (3),張富邦",4/16/2024,二,15:30,4/16/2024,16:20,FALSE,FALSE,4/25/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張富邦
+"[Nephrology]:FERGU_lec_11, Immunopathogenesis and Primary Glomerular Diseases,林堯彬",4/17/2024,三,9:00,4/17/2024,9:50,FALSE,FALSE,4/26/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林堯彬
+"[Nephrology]:FERGU_lec_12, Renal Osteodystrophy,劉宏祥",4/17/2024,三,10:10,4/17/2024,11:00,FALSE,FALSE,4/26/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉宏祥
+"[Nuclear medicine]:FERGU_lec_02,  Nuclear Nephrology,胡蓮欣",4/17/2024,三,11:10,4/17/2024,12:00,FALSE,FALSE,4/26/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,胡蓮欣
+"[Nephrology]:FERGU_lec_53, Acid Base Disorders and RTA (1),曾偉誠",4/17/2024,三,13:20,4/17/2024,14:10,FALSE,FALSE,4/26/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,曾偉誠
+"[Nephrology]:FERGU_lec_13, Acid Base Disorders and RTA (2),曾偉誠",4/17/2024,三,14:20,4/17/2024,15:10,FALSE,FALSE,4/26/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,曾偉誠
+[選修]整合醫學暨中醫學現代進展,4/17/2024,三,15:30,4/17/2024,16:20,FALSE,FALSE,4/26/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,4/17/2024,三,16:30,4/17/2024,17:20,FALSE,FALSE,4/26/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Nephrology]:FERGU_lec_09, Clinical Pharmacology in Nephrology,黎思源",4/18/2024,四,10:10,4/18/2024,11:00,FALSE,FALSE,4/27/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黎思源
+"[Nephrology]:FERGU_lec_52, Secondary Glomerular Diseases,黎思源",4/18/2024,四,11:10,4/18/2024,12:00,FALSE,FALSE,4/27/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黎思源
+[選修]藥理學實驗,4/18/2024,四,13:20,4/18/2024,14:10,FALSE,FALSE,4/27/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,4/18/2024,四,14:20,4/18/2024,15:10,FALSE,FALSE,4/27/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,4/18/2024,四,15:30,4/18/2024,16:20,FALSE,FALSE,4/27/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,4/18/2024,四,16:30,4/18/2024,17:20,FALSE,FALSE,4/27/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Introduction to Surgery]:FERGU_lec_08, Surgical of Abdominal Wall,陳世欽",4/19/2024,五,9:00,4/19/2024,9:50,FALSE,FALSE,4/28/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳世欽
+"[Nephrology]:FERGU_lec_03, Nephrotic Syndrome,唐德成",4/19/2024,五,10:10,4/19/2024,11:00,FALSE,FALSE,4/28/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,唐德成
+"[Nephrology]:FERGU_lec_04, Acute Kidney Injury,唐德成",4/19/2024,五,11:10,4/19/2024,12:00,FALSE,FALSE,4/28/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,唐德成
+PBL-FERGU01-II,4/19/2024,五,13:20,4/19/2024,14:10,FALSE,FALSE,4/28/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-FERGU01-II,4/19/2024,五,14:20,4/19/2024,15:10,FALSE,FALSE,4/28/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Nephrology]:FERGU_lec_10, Vascular Injury & Cystic Diseases in the Kidney,李國華",4/22/2024,一,9:00,4/22/2024,9:50,FALSE,FALSE,5/1/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李國華
+"[Nephrology]:FERGU_lec_06, Tubulointerstitial Diseases of the Kidney,陳範宇",4/22/2024,一,10:10,4/22/2024,11:00,FALSE,FALSE,5/1/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳範宇
+PBL-FERGU01-III,4/22/2024,一,13:20,4/22/2024,14:10,FALSE,FALSE,5/1/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-FERGU01-III,4/22/2024,一,14:20,4/22/2024,15:10,FALSE,FALSE,5/1/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Nephrology]:FERGU_lec_16, Kidney Transplantation,程子珩",4/23/2024,二,11:10,4/23/2024,12:00,FALSE,FALSE,5/2/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,程子珩
+"[Pathology&Laboratory]:FERGU_lec_61, The lower urinary tract,杭仁釩",4/23/2024,二,13:20,4/23/2024,14:10,FALSE,FALSE,5/2/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,杭仁釩
+"[Pathology&Laboratory]:FERGU_lec_62, The lower urinary tract,杭仁釩",4/23/2024,二,14:20,4/23/2024,15:10,FALSE,FALSE,5/2/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,杭仁釩
+"[Pathology&Laboratory]:FERGU_lec_69, The male genital tract (1),杭仁釩",4/23/2024,二,15:30,4/23/2024,16:20,FALSE,FALSE,5/2/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,杭仁釩
+"[Pathology&Laboratory]:FERGU_lec_70, The male genital tract (2),杭仁釩",4/23/2024,二,16:30,4/23/2024,17:20,FALSE,FALSE,5/2/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,杭仁釩
+"[Pharmacology]:FERGU_lec_07, Toxicology (1),王湘翠",4/24/2024,三,10:10,4/24/2024,11:00,FALSE,FALSE,5/3/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王湘翠
+"[Pharmacology]:FERGU_lec_17, Toxicology (2),王湘翠",4/24/2024,三,11:10,4/24/2024,12:00,FALSE,FALSE,5/3/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王湘翠
+"[Nephrology]:FERGU_lec_42, PBL-FERGU01--Case Wrapup,陳範宇",4/24/2024,三,13:20,4/24/2024,14:10,FALSE,FALSE,5/3/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳範宇
+[選修]整合醫學暨中醫學現代進展,4/24/2024,三,15:30,4/24/2024,16:20,FALSE,FALSE,5/3/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,4/24/2024,三,16:30,4/24/2024,17:20,FALSE,FALSE,5/3/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,4/25/2024,四,13:20,4/25/2024,14:10,FALSE,FALSE,5/4/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,4/25/2024,四,14:20,4/25/2024,15:10,FALSE,FALSE,5/4/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,4/25/2024,四,15:30,4/25/2024,16:20,FALSE,FALSE,5/4/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,4/25/2024,四,16:30,4/25/2024,17:20,FALSE,FALSE,5/4/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Nephrology]:FERGU_lec_48, 腎臟學區段考試,腎臟科總醫師",4/26/2024,五,13:20,4/26/2024,14:10,FALSE,FALSE,5/5/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,腎臟科總醫師
+"[Nephrology]:FERGU_lec_49, 腎臟學區段考試,腎臟科總醫師",4/26/2024,五,14:20,4/26/2024,15:10,FALSE,FALSE,5/5/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,腎臟科總醫師
+"[Urology]:FERGU_lec_21, 泌尿學簡介,張心湜",4/29/2024,一,8:00,4/29/2024,8:50,FALSE,FALSE,5/8/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張心湜
+"[Urology]:FERGU_lec_30, 尿路損傷,黃逸修",4/29/2024,一,9:00,4/29/2024,9:50,FALSE,FALSE,5/8/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃逸修
+"[Urology]:FERGU_lec_22, 尿路神經學及尿路動力學,林志杰",4/29/2024,一,10:10,4/29/2024,11:00,FALSE,FALSE,5/8/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林志杰
+"[Urology]:FERGU_lec_27, 尿失禁及婦女泌尿科學,林登龍",4/29/2024,一,11:10,4/29/2024,12:00,FALSE,FALSE,5/8/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林登龍
+PBL-FERGU02-I,4/29/2024,一,13:20,4/29/2024,14:10,FALSE,FALSE,5/8/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-FERGU02-I,4/29/2024,一,14:20,4/29/2024,15:10,FALSE,FALSE,5/8/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Urology]:FERGU_lec_36, 腎上腺、腎臟及男性生殖系統腫瘤,鍾孝仁",4/30/2024,二,9:00,4/30/2024,9:50,FALSE,FALSE,5/9/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,鍾孝仁
+"[Urology]:FERGU_lec_57, 尿路上皮腫瘤,林子平",4/30/2024,二,10:10,4/30/2024,11:00,FALSE,FALSE,5/9/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林子平
+"[Urology]:FERGU_lec_34, 男性不孕症,黃志賢",4/30/2024,二,11:10,4/30/2024,12:00,FALSE,FALSE,5/9/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃志賢
+"[Pathology&Laboratory]:Hema_lec_62, Diseases of red blood cells and bleeding discorder,楊靜芬",4/30/2024,二,13:20,4/30/2024,14:10,FALSE,FALSE,5/9/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊靜芬
+"[Pathology&Laboratory]:Hema_lec_62, Diseases of red blood cells and bleeding discorder,楊靜芬",4/30/2024,二,14:20,4/30/2024,15:10,FALSE,FALSE,5/9/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊靜芬
+"[Pathology&Laboratory]:Hema_lec_63, Diseases of white blood cells and lymph node,楊靜芬",4/30/2024,二,15:30,4/30/2024,16:20,FALSE,FALSE,5/9/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊靜芬
+"[Pathology&Laboratory]:Hema_lec_63, Diseases of white blood cells and lymph node,楊靜芬",4/30/2024,二,16:30,4/30/2024,17:20,FALSE,FALSE,5/9/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊靜芬
+"[Imaging Diagnosis]:FERGU_lec_20, Radiology of GU-system,沈書慧",5/1/2024,三,10:10,5/1/2024,11:00,FALSE,FALSE,5/10/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,沈書慧
+"[Urology]:FERGU_lec_28, 男性功能障礙,陳光國",5/1/2024,三,11:10,5/1/2024,12:00,FALSE,FALSE,5/10/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳光國
+[選修]整合醫學暨中醫學現代進展,5/1/2024,三,15:30,5/1/2024,16:20,FALSE,FALSE,5/10/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,5/1/2024,三,16:30,5/1/2024,17:20,FALSE,FALSE,5/10/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Urology]:FERGU_lec_23, Clinical pharmacology in urology,黃子豪",5/2/2024,四,9:00,5/2/2024,9:50,FALSE,FALSE,5/11/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃子豪
+"[Urology]:FERGU_lec_19, SKILL-泌尿學臨床技巧,魏子鈞",5/2/2024,四,10:10,5/2/2024,11:00,FALSE,FALSE,5/11/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,魏子鈞
+"[Urology]:FERGU_lec_33, 尿路結石,邱文祥",5/2/2024,四,11:10,5/2/2024,12:00,FALSE,FALSE,5/11/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,邱文祥
+[選修]藥理學實驗,5/2/2024,四,13:20,5/2/2024,14:10,FALSE,FALSE,5/11/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/2/2024,四,14:20,5/2/2024,15:10,FALSE,FALSE,5/11/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/2/2024,四,15:30,5/2/2024,16:20,FALSE,FALSE,5/11/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/2/2024,四,16:30,5/2/2024,17:20,FALSE,FALSE,5/11/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Urology]:FERGU_lec_29, 尿路感染和性病,黃奕燊",5/3/2024,五,9:00,5/3/2024,9:50,FALSE,FALSE,5/12/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃奕燊
+"[Urology]:FERGU_lec_37, 泌尿道系統放射腫瘤學,劉裕明",5/3/2024,五,10:10,5/3/2024,11:00,FALSE,FALSE,5/12/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉裕明
+"[Urology]:FERGU_lec_31, 攝護腺腫廇,吳東霖",5/3/2024,五,11:10,5/3/2024,12:00,FALSE,FALSE,5/12/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,吳東霖
+PBL-FERGU02-II,5/3/2024,五,13:20,5/3/2024,14:10,FALSE,FALSE,5/12/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-FERGU02-II,5/3/2024,五,14:20,5/3/2024,15:10,FALSE,FALSE,5/12/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Urology]:FERGU_lec_24, 小兒泌尿科學,范玉華",5/6/2024,一,10:10,5/6/2024,11:00,FALSE,FALSE,5/15/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,范玉華
+"[Pharmacology]:Hema_lec_21, Prescription writing and safe use of drugs,張豫立",5/6/2024,一,11:10,5/6/2024,12:00,FALSE,FALSE,5/15/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,張豫立
+PBL-FERGU02-III,5/6/2024,一,13:20,5/6/2024,14:10,FALSE,FALSE,5/15/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-FERGU02-III,5/6/2024,一,14:20,5/6/2024,15:10,FALSE,FALSE,5/15/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pharmacology]:Hema_lec_19, Anti-neoplastic drugs (1),李新城",5/7/2024,二,10:10,5/7/2024,11:00,FALSE,FALSE,5/16/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李新城
+"[Pharmacology]:Hema_lec_20, Anti-neoplastic drugs (2),李新城",5/7/2024,二,11:10,5/7/2024,12:00,FALSE,FALSE,5/16/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李新城
+"[Pathology&Laboratory]:Hema_lec_68, Gross pathology of the diseases,李芬瑤",5/7/2024,二,13:20,5/7/2024,14:10,FALSE,FALSE,5/16/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤
+"[Pathology&Laboratory]:Hema_lec_69, Gross pathology of the diseases,李芬瑤",5/7/2024,二,14:20,5/7/2024,15:10,FALSE,FALSE,5/16/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤
+"[Pathology&Laboratory]:Hema_lec_70, Gross pathology of the diseases,李芬瑤",5/7/2024,二,15:30,5/7/2024,16:20,FALSE,FALSE,5/16/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤
+"[Pathology&Laboratory]:Hema_lec_70+1, Gross pathology of the diseases,李芬瑤",5/7/2024,二,16:30,5/7/2024,17:20,FALSE,FALSE,5/16/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,李芬瑤
+"[Hematology]:Hema_lec_48, Introduction of Hematology,蕭樑材",5/8/2024,三,10:10,5/8/2024,11:00,FALSE,FALSE,5/17/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蕭樑材
+"[Hematology]:Hema_lec_09, Clinical skill in Hematology PB and bone marrow morphology,許德麟",5/8/2024,三,11:10,5/8/2024,12:00,FALSE,FALSE,5/17/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許德麟
+"[Urology]:FERGU_lec_45, PBL-FERGU02--Case Wrapup,許自翔",5/8/2024,三,13:20,5/8/2024,14:10,FALSE,FALSE,5/17/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,許自翔
+[選修]整合醫學暨中醫學現代進展,5/8/2024,三,15:30,5/8/2024,16:20,FALSE,FALSE,5/17/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,5/8/2024,三,16:30,5/8/2024,17:20,FALSE,FALSE,5/17/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,5/9/2024,四,13:20,5/9/2024,14:10,FALSE,FALSE,5/18/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,5/9/2024,四,14:20,5/9/2024,15:10,FALSE,FALSE,5/18/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,5/9/2024,四,15:30,5/9/2024,16:20,FALSE,FALSE,5/18/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,5/9/2024,四,16:30,5/9/2024,17:20,FALSE,FALSE,5/18/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Urology]:FERGU_lec_50, 泌尿學區段考試,總醫師",5/10/2024,五,10:10,5/10/2024,11:00,FALSE,FALSE,5/19/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,總醫師
+"[Urology]:FERGU_lec_51, 泌尿學區段考試,總醫師",5/10/2024,五,11:10,5/10/2024,12:00,FALSE,FALSE,5/19/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,總醫師
+"[Hematology]:Hema_lec_10, CML, Myeloproliferative neoplasms,柯博伸",5/10/2024,五,13:20,5/10/2024,14:10,FALSE,FALSE,5/19/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,柯博伸
+"[Hematology]:Hema_lec_03, Aplastic anemia, MDS,高志平",5/10/2024,五,14:20,5/10/2024,15:10,FALSE,FALSE,5/19/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,高志平
+"[Introduction to Surgery]:Hema_lec_36, Minimal Invasive Surgery,藍苑慈",5/10/2024,五,15:30,5/10/2024,16:20,FALSE,FALSE,5/19/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,藍苑慈
+"[Introduction to Surgery]:Hema_lec_38, 肝膽胰手術,王心儀",5/10/2024,五,16:30,5/10/2024,17:20,FALSE,FALSE,5/19/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王心儀
+"[Radiotherapy]:Hema_lec_28, Radiotherapy in hematologic malignalcy,陳一瑋",5/13/2024,一,9:00,5/13/2024,9:50,FALSE,FALSE,5/22/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳一瑋
+"[Hematology]:Hema_lec_01, Anemia (IDA, megaloblastic anemia, hemolytic anemia, hemoglobinopathy),王浩元",5/13/2024,一,10:10,5/13/2024,11:00,FALSE,FALSE,5/22/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王浩元
+"[Hematology]:Hema_lec_12, Myeloma, CLL and other lymphoproliferative disorders,劉嘉仁",5/13/2024,一,11:10,5/13/2024,12:00,FALSE,FALSE,5/22/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉嘉仁
+PBL-Onco-I,5/13/2024,一,13:20,5/13/2024,14:10,FALSE,FALSE,5/22/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-Onco-I,5/13/2024,一,14:20,5/13/2024,15:10,FALSE,FALSE,5/22/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pathology&Laboratory]:Hema_lec_72, 病理學及實驗期末考試,病理助教",5/14/2024,二,13:20,5/14/2024,14:10,FALSE,FALSE,5/23/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,病理助教
+"[Pathology&Laboratory]:Hema_lec_72, 病理學及實驗期末考試,病理助教",5/14/2024,二,14:20,5/14/2024,15:10,FALSE,FALSE,5/23/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,病理助教
+"[Hematology]:Hema_lec_11, Lymphoma,蕭樑材",5/15/2024,三,10:10,5/15/2024,11:00,FALSE,FALSE,5/24/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蕭樑材
+"[Hematology]:Hema_lec_08, Acute Leukemia (AML and ALL),蔡淳光",5/15/2024,三,11:10,5/15/2024,12:00,FALSE,FALSE,5/24/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡淳光
+"[Hematology]:Hema_lec_07, Hemostasis,林庭安",5/15/2024,三,13:20,5/15/2024,14:10,FALSE,FALSE,5/24/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林庭安
+"[Hematology]:Hema_lec_05, Thrombosis,陳玟均",5/15/2024,三,14:20,5/15/2024,15:10,FALSE,FALSE,5/24/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳玟均
+[選修]整合醫學暨中醫學現代進展,5/15/2024,三,15:30,5/15/2024,16:20,FALSE,FALSE,5/24/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,5/15/2024,三,16:30,5/15/2024,17:20,FALSE,FALSE,5/24/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Nuclear medicine]:Hema_lec_16, Nuclear medicine in oncology(I),王昱豐",5/16/2024,四,9:00,5/16/2024,9:50,FALSE,FALSE,5/25/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王昱豐
+"[Hematology]:Hema_lec_14, Hematopoiesis and stem cell transplantation,劉耀中",5/16/2024,四,10:10,5/16/2024,11:00,FALSE,FALSE,5/25/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉耀中
+"[Hematology]:Hema_lec_06, Transfusion medicine,簡聖軒",5/16/2024,四,11:10,5/16/2024,12:00,FALSE,FALSE,5/25/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,簡聖軒
+基礎臨床技能訓練課程,5/16/2024,四,13:20,5/16/2024,14:10,FALSE,FALSE,5/25/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,5/16/2024,四,14:20,5/16/2024,15:10,FALSE,FALSE,5/25/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,5/16/2024,四,15:30,5/16/2024,16:20,FALSE,FALSE,5/25/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+基礎臨床技能訓練課程,5/16/2024,四,16:30,5/16/2024,17:20,FALSE,FALSE,5/25/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Nuclear medicine]:Hema_lec_17, Nuclear medicine in oncology(II),王昱豐",5/17/2024,五,9:00,5/17/2024,9:50,FALSE,FALSE,5/26/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,王昱豐
+"[Medical Oncology]:Hema_lec_40, Introduction of Medical Oncology,陳博明",5/17/2024,五,10:10,5/17/2024,11:00,FALSE,FALSE,5/26/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳博明
+"[Medical Oncology]:Hema_lec_33, Cancer Epidemiology and Screening,陳三奇",5/17/2024,五,11:10,5/17/2024,12:00,FALSE,FALSE,5/26/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳三奇
+PBL-Onco-II,5/17/2024,五,13:20,5/17/2024,14:10,FALSE,FALSE,5/26/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-Onco-II,5/17/2024,五,14:20,5/17/2024,15:10,FALSE,FALSE,5/26/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Introduction to Surgery]:Hema_lec_61, Breast,蔡宜芳",5/20/2024,一,9:00,5/20/2024,9:50,FALSE,FALSE,5/29/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡宜芳
+"[Medical Oncology]:Hema_lec_39, Cancer Biology : Carcinogenesis, Cancer Invasion and Metastasis,楊慕華",5/20/2024,一,10:10,5/20/2024,11:00,FALSE,FALSE,5/29/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,楊慕華
+"[Medical Oncology]:Hema_lec_13, Cancer Therapy: Hormonal Therapy and Chemotherapy,劉峻宇",5/20/2024,一,11:10,5/20/2024,12:00,FALSE,FALSE,5/29/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,劉峻宇
+PBL-Onco-III,5/20/2024,一,13:20,5/20/2024,14:10,FALSE,FALSE,5/29/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+PBL-Onco-III,5/20/2024,一,14:20,5/20/2024,15:10,FALSE,FALSE,5/29/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Medical Oncology]:Hema_lec_24, Cancer Therapy: Immunotherapy,姜乃榕",5/21/2024,二,9:00,5/21/2024,9:50,FALSE,FALSE,5/30/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,姜乃榕
+"[Medical Oncology]:Hema_lec_67, Nanomedicine to precision Medicine:  Bioinformatics at medicine,鄧豪偉",5/21/2024,二,10:10,5/21/2024,11:00,FALSE,FALSE,5/30/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,鄧豪偉
+"[Medical Oncology]:Hema_lec_30, Cancer Therapy: Target Therapy,洪逸平",5/21/2024,二,11:10,5/21/2024,12:00,FALSE,FALSE,5/30/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,洪逸平
+"[Medical Oncology]:Hema_lec_41, Clinical Trial in Oncology,陳明晃",5/21/2024,二,13:20,5/21/2024,14:10,FALSE,FALSE,5/30/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳明晃
+"[Medical Oncology]:Hema_lec_34, Palliative Care and Hospice Medicine,趙大中",5/21/2024,二,14:20,5/21/2024,15:10,FALSE,FALSE,5/30/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,趙大中
+"[Imaging Diagnosis]:Hema_lec_04, Radiology in oncology,凌憬峰",5/21/2024,二,15:30,5/21/2024,16:20,FALSE,FALSE,5/30/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,凌憬峰
+"[Rehabilitation Medicine]:Hema_lec_64, Cancer rehabilitation,蔡泊意",5/21/2024,二,16:30,5/21/2024,17:20,FALSE,FALSE,5/30/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,蔡泊意
+"[Radiotherapy]:Hema_lec_29, Radiotherapy in head and neck cancer,黃品逸",5/22/2024,三,9:00,5/22/2024,9:50,FALSE,FALSE,5/31/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃品逸
+"[Pharmacology]:Hema_lec_22, Pharmacogenetics,黃自強",5/22/2024,三,10:10,5/22/2024,11:00,FALSE,FALSE,5/31/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃自強
+"[Pharmacology]:Hema_lec_23, Pharmacogenetics,黃自強",5/22/2024,三,11:10,5/22/2024,12:00,FALSE,FALSE,5/31/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,黃自強
+[選修]整合醫學暨中醫學現代進展,5/22/2024,三,15:30,5/22/2024,16:20,FALSE,FALSE,5/31/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,5/22/2024,三,16:30,5/22/2024,17:20,FALSE,FALSE,5/31/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Medical Oncology]:Hema_lec_32, Multi-discipline Team Work in Oncology,顏厥全",5/23/2024,四,9:00,5/23/2024,9:50,FALSE,FALSE,6/1/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,顏厥全
+"[Medical Oncology]:Hema_lec_26, Nanomedicine to Precision Medicine: Clinical Application,陳天華",5/23/2024,四,10:10,5/23/2024,11:00,FALSE,FALSE,6/1/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,陳天華
+"[Medical Oncology]:Hema_lec_37, PBL-Oncology01--Case Wrapup,高昀婕",5/23/2024,四,11:10,5/23/2024,12:00,FALSE,FALSE,6/1/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,高昀婕
+[選修]藥理學實驗,5/23/2024,四,13:20,5/23/2024,14:10,FALSE,FALSE,6/1/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/23/2024,四,14:20,5/23/2024,15:10,FALSE,FALSE,6/1/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/23/2024,四,15:30,5/23/2024,16:20,FALSE,FALSE,6/1/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/23/2024,四,16:30,5/23/2024,17:20,FALSE,FALSE,6/1/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Pharmacology]:Hema_lec_46, 藥理學期末考(2),嚴錦城 許馨文",5/24/2024,五,13:20,5/24/2024,14:10,FALSE,FALSE,6/2/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城 許馨文
+"[Pharmacology]:Hema_lec_47, 藥理學期末考(2),嚴錦城 許馨文",5/24/2024,五,14:20,5/24/2024,15:10,FALSE,FALSE,6/2/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,嚴錦城 許馨文
+"[Introduction to Surgery]:Hema_lec_50, 外科概論考試(2),外科部總醫師",5/27/2024,一,13:20,5/27/2024,14:10,FALSE,FALSE,6/5/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,外科部總醫師
+"[Introduction to Surgery]:Hema_lec_50, 外科概論考試(2),外科部總醫師",5/27/2024,一,14:20,5/27/2024,15:10,FALSE,FALSE,6/5/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,外科部總醫師
+[選修]整合醫學暨中醫學現代進展,5/29/2024,三,15:30,5/29/2024,16:20,FALSE,FALSE,6/7/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,5/29/2024,三,16:30,5/29/2024,17:20,FALSE,FALSE,6/7/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/30/2024,四,13:20,5/30/2024,14:10,FALSE,FALSE,6/8/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/30/2024,四,14:20,5/30/2024,15:10,FALSE,FALSE,6/8/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/30/2024,四,15:30,5/30/2024,16:20,FALSE,FALSE,6/8/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]藥理學實驗,5/30/2024,四,16:30,5/30/2024,17:20,FALSE,FALSE,6/8/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[Hematology]:Hema_lec_42, 血液學區段考試,林庭安",5/31/2024,五,13:20,5/31/2024,14:10,FALSE,FALSE,6/9/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林庭安
+"[Hematology]:Hema_lec_43, 血液學區段考試,林庭安",5/31/2024,五,14:20,5/31/2024,15:10,FALSE,FALSE,6/9/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,林庭安
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/3/2024,一,8:00,6/3/2024,8:50,FALSE,FALSE,6/12/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/3/2024,一,9:00,6/3/2024,9:50,FALSE,FALSE,6/12/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/3/2024,一,10:10,6/3/2024,11:00,FALSE,FALSE,6/12/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/3/2024,一,11:10,6/3/2024,12:00,FALSE,FALSE,6/12/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/3/2024,一,13:20,6/3/2024,14:10,FALSE,FALSE,6/12/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/3/2024,一,14:20,6/3/2024,15:10,FALSE,FALSE,6/12/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/3/2024,一,15:30,6/3/2024,16:20,FALSE,FALSE,6/12/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/3/2024,一,16:30,6/3/2024,17:20,FALSE,FALSE,6/12/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/4/2024,二,8:00,6/4/2024,8:50,FALSE,FALSE,6/13/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/4/2024,二,9:00,6/4/2024,9:50,FALSE,FALSE,6/13/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/4/2024,二,10:10,6/4/2024,11:00,FALSE,FALSE,6/13/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/4/2024,二,11:10,6/4/2024,12:00,FALSE,FALSE,6/13/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[Medical Oncology]:Hema_lec_44, 醫學腫瘤學區段考試,CR/楊慕華",6/4/2024,二,13:20,6/4/2024,14:10,FALSE,FALSE,6/13/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,CR/楊慕華
+"[Medical Oncology]:Hema_lec_45, 醫學腫瘤學區段考試,CR/楊慕華",6/4/2024,二,14:20,6/4/2024,15:10,FALSE,FALSE,6/13/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,CR/楊慕華
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/4/2024,二,15:30,6/4/2024,16:20,FALSE,FALSE,6/13/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/4/2024,二,16:30,6/4/2024,17:20,FALSE,FALSE,6/13/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/5/2024,三,8:00,6/5/2024,8:50,FALSE,FALSE,6/14/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/5/2024,三,9:00,6/5/2024,9:50,FALSE,FALSE,6/14/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/5/2024,三,10:10,6/5/2024,11:00,FALSE,FALSE,6/14/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/5/2024,三,11:10,6/5/2024,12:00,FALSE,FALSE,6/14/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/5/2024,三,13:20,6/5/2024,14:10,FALSE,FALSE,6/14/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/5/2024,三,14:20,6/5/2024,15:10,FALSE,FALSE,6/14/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+[選修]整合醫學暨中醫學現代進展,6/5/2024,三,15:30,6/5/2024,16:20,FALSE,FALSE,6/14/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+[選修]整合醫學暨中醫學現代進展,6/5/2024,三,16:30,6/5/2024,17:20,FALSE,FALSE,6/14/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/6/2024,四,8:00,6/6/2024,8:50,FALSE,FALSE,6/15/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/6/2024,四,9:00,6/6/2024,9:50,FALSE,FALSE,6/15/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/6/2024,四,10:10,6/6/2024,11:00,FALSE,FALSE,6/15/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/6/2024,四,11:10,6/6/2024,12:00,FALSE,FALSE,6/15/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/6/2024,四,13:20,6/6/2024,14:10,FALSE,FALSE,6/15/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/6/2024,四,14:20,6/6/2024,15:10,FALSE,FALSE,6/15/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/6/2024,四,15:30,6/6/2024,16:20,FALSE,FALSE,6/15/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/6/2024,四,16:30,6/6/2024,17:20,FALSE,FALSE,6/15/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/7/2024,五,8:00,6/7/2024,8:50,FALSE,FALSE,6/16/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/7/2024,五,9:00,6/7/2024,9:50,FALSE,FALSE,6/16/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/7/2024,五,10:10,6/7/2024,11:00,FALSE,FALSE,6/16/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/7/2024,五,11:10,6/7/2024,12:00,FALSE,FALSE,6/16/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/7/2024,五,13:20,6/7/2024,14:10,FALSE,FALSE,6/16/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/7/2024,五,14:20,6/7/2024,15:10,FALSE,FALSE,6/16/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/7/2024,五,15:30,6/7/2024,16:20,FALSE,FALSE,6/16/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/7/2024,五,16:30,6/7/2024,17:20,FALSE,FALSE,6/16/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/11/2024,二,8:00,6/11/2024,8:50,FALSE,FALSE,6/20/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/11/2024,二,9:00,6/11/2024,9:50,FALSE,FALSE,6/20/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/11/2024,二,10:10,6/11/2024,11:00,FALSE,FALSE,6/20/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/11/2024,二,11:10,6/11/2024,12:00,FALSE,FALSE,6/20/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/11/2024,二,13:20,6/11/2024,14:10,FALSE,FALSE,6/20/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/11/2024,二,14:20,6/11/2024,15:10,FALSE,FALSE,6/20/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/11/2024,二,15:30,6/11/2024,16:20,FALSE,FALSE,6/20/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/11/2024,二,16:30,6/11/2024,17:20,FALSE,FALSE,6/20/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/12/2024,三,8:00,6/12/2024,8:50,FALSE,FALSE,6/21/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/12/2024,三,9:00,6/12/2024,9:50,FALSE,FALSE,6/21/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/12/2024,三,10:10,6/12/2024,11:00,FALSE,FALSE,6/21/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/12/2024,三,11:10,6/12/2024,12:00,FALSE,FALSE,6/21/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[中西醫整合醫學]:中西醫整合-02, 選修課,-",6/12/2024,三,13:20,6/12/2024,14:10,FALSE,FALSE,6/21/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[中西醫整合醫學]:中西醫整合-02, 選修課,-",6/12/2024,三,14:20,6/12/2024,15:10,FALSE,FALSE,6/21/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[中西醫整合醫學]:中西醫整合-33, 選修課,-",6/12/2024,三,15:30,6/12/2024,16:20,FALSE,FALSE,6/21/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[中西醫整合醫學]:中西醫整合-34, 選修課,-",6/12/2024,三,16:30,6/12/2024,17:20,FALSE,FALSE,6/21/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/13/2024,四,8:00,6/13/2024,8:50,FALSE,FALSE,6/22/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/13/2024,四,9:00,6/13/2024,9:50,FALSE,FALSE,6/22/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/13/2024,四,10:10,6/13/2024,11:00,FALSE,FALSE,6/22/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/13/2024,四,11:10,6/13/2024,12:00,FALSE,FALSE,6/22/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/13/2024,四,13:20,6/13/2024,14:10,FALSE,FALSE,6/22/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/13/2024,四,14:20,6/13/2024,15:10,FALSE,FALSE,6/22/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/13/2024,四,15:30,6/13/2024,16:20,FALSE,FALSE,6/22/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/13/2024,四,16:30,6/13/2024,17:20,FALSE,FALSE,6/22/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/14/2024,五,8:00,6/14/2024,8:50,FALSE,FALSE,6/23/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/14/2024,五,9:00,6/14/2024,9:50,FALSE,FALSE,6/23/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/14/2024,五,10:10,6/14/2024,11:00,FALSE,FALSE,6/23/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/14/2024,五,11:10,6/14/2024,12:00,FALSE,FALSE,6/23/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/14/2024,五,13:20,6/14/2024,14:10,FALSE,FALSE,6/23/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/14/2024,五,14:20,6/14/2024,15:10,FALSE,FALSE,6/23/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/14/2024,五,15:30,6/14/2024,16:20,FALSE,FALSE,6/23/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/14/2024,五,16:30,6/14/2024,17:20,FALSE,FALSE,6/23/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/17/2024,一,8:00,6/17/2024,8:50,FALSE,FALSE,6/26/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/17/2024,一,9:00,6/17/2024,9:50,FALSE,FALSE,6/26/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/17/2024,一,10:10,6/17/2024,11:00,FALSE,FALSE,6/26/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/17/2024,一,11:10,6/17/2024,12:00,FALSE,FALSE,6/26/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/17/2024,一,13:20,6/17/2024,14:10,FALSE,FALSE,6/26/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/17/2024,一,14:20,6/17/2024,15:10,FALSE,FALSE,6/26/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/17/2024,一,15:30,6/17/2024,16:20,FALSE,FALSE,6/26/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/17/2024,一,16:30,6/17/2024,17:20,FALSE,FALSE,6/26/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/18/2024,二,8:00,6/18/2024,8:50,FALSE,FALSE,6/27/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/18/2024,二,9:00,6/18/2024,9:50,FALSE,FALSE,6/27/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/18/2024,二,10:10,6/18/2024,11:00,FALSE,FALSE,6/27/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/18/2024,二,11:10,6/18/2024,12:00,FALSE,FALSE,6/27/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/18/2024,二,13:20,6/18/2024,14:10,FALSE,FALSE,6/27/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/18/2024,二,14:20,6/18/2024,15:10,FALSE,FALSE,6/27/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/18/2024,二,15:30,6/18/2024,16:20,FALSE,FALSE,6/27/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/18/2024,二,16:30,6/18/2024,17:20,FALSE,FALSE,6/27/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/19/2024,三,8:00,6/19/2024,8:50,FALSE,FALSE,6/28/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/19/2024,三,9:00,6/19/2024,9:50,FALSE,FALSE,6/28/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/19/2024,三,10:10,6/19/2024,11:00,FALSE,FALSE,6/28/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/19/2024,三,11:10,6/19/2024,12:00,FALSE,FALSE,6/28/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/19/2024,三,13:20,6/19/2024,14:10,FALSE,FALSE,6/28/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/19/2024,三,14:20,6/19/2024,15:10,FALSE,FALSE,6/28/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[中西醫整合醫學]:中西醫整合-33, 選修課,-",6/19/2024,三,15:30,6/19/2024,16:20,FALSE,FALSE,6/28/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[中西醫整合醫學]:中西醫整合-33, 選修課,-",6/19/2024,三,16:30,6/19/2024,17:20,FALSE,FALSE,6/28/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/20/2024,四,8:00,6/20/2024,8:50,FALSE,FALSE,6/29/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/20/2024,四,9:00,6/20/2024,9:50,FALSE,FALSE,6/29/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/20/2024,四,10:10,6/20/2024,11:00,FALSE,FALSE,6/29/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/20/2024,四,11:10,6/20/2024,12:00,FALSE,FALSE,6/29/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/20/2024,四,13:20,6/20/2024,14:10,FALSE,FALSE,6/29/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/20/2024,四,14:20,6/20/2024,15:10,FALSE,FALSE,6/29/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/20/2024,四,15:30,6/20/2024,16:20,FALSE,FALSE,6/29/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/20/2024,四,16:30,6/20/2024,17:20,FALSE,FALSE,6/29/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/21/2024,五,8:00,6/21/2024,8:50,FALSE,FALSE,6/30/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/21/2024,五,9:00,6/21/2024,9:50,FALSE,FALSE,6/30/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/21/2024,五,10:10,6/21/2024,11:00,FALSE,FALSE,6/30/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/21/2024,五,11:10,6/21/2024,12:00,FALSE,FALSE,6/30/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/21/2024,五,13:20,6/21/2024,14:10,FALSE,FALSE,6/30/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/21/2024,五,14:20,6/21/2024,15:10,FALSE,FALSE,6/30/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/21/2024,五,15:30,6/21/2024,16:20,FALSE,FALSE,6/30/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/21/2024,五,16:30,6/21/2024,17:20,FALSE,FALSE,6/30/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/24/2024,一,8:00,6/24/2024,8:50,FALSE,FALSE,7/3/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/24/2024,一,9:00,6/24/2024,9:50,FALSE,FALSE,7/3/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/24/2024,一,10:10,6/24/2024,11:00,FALSE,FALSE,7/3/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/24/2024,一,11:10,6/24/2024,12:00,FALSE,FALSE,7/3/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_01, 基礎醫學總論,-",6/24/2024,一,13:20,6/24/2024,14:10,FALSE,FALSE,7/3/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_02, 基礎醫學總論,-",6/24/2024,一,14:20,6/24/2024,15:10,FALSE,FALSE,7/3/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_03, 基礎醫學總論,-",6/24/2024,一,15:30,6/24/2024,16:20,FALSE,FALSE,7/3/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_04, 基礎醫學總論,-",6/24/2024,一,16:30,6/24/2024,17:20,FALSE,FALSE,7/3/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/25/2024,二,8:00,6/25/2024,8:50,FALSE,FALSE,7/4/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/25/2024,二,9:00,6/25/2024,9:50,FALSE,FALSE,7/4/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/25/2024,二,10:10,6/25/2024,11:00,FALSE,FALSE,7/4/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/25/2024,二,11:10,6/25/2024,12:00,FALSE,FALSE,7/4/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_05, 基礎醫學總論,-",6/25/2024,二,13:20,6/25/2024,14:10,FALSE,FALSE,7/4/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_06, 基礎醫學總論,-",6/25/2024,二,14:20,6/25/2024,15:10,FALSE,FALSE,7/4/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_07, 基礎醫學總論,-",6/25/2024,二,15:30,6/25/2024,16:20,FALSE,FALSE,7/4/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_08, 基礎醫學總論,-",6/25/2024,二,16:30,6/25/2024,17:20,FALSE,FALSE,7/4/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_09, 基礎醫學總論,-",6/26/2024,三,8:00,6/26/2024,8:50,FALSE,FALSE,7/5/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_10, 基礎醫學總論,-",6/26/2024,三,9:00,6/26/2024,9:50,FALSE,FALSE,7/5/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_11, 基礎醫學總論,-",6/26/2024,三,10:10,6/26/2024,11:00,FALSE,FALSE,7/5/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_12, 基礎醫學總論,-",6/26/2024,三,11:10,6/26/2024,12:00,FALSE,FALSE,7/5/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_09, 基礎醫學總論,-",6/26/2024,三,13:20,6/26/2024,14:10,FALSE,FALSE,7/5/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_10, 基礎醫學總論,-",6/26/2024,三,14:20,6/26/2024,15:10,FALSE,FALSE,7/5/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_11, 基礎醫學總論,-",6/26/2024,三,15:30,6/26/2024,16:20,FALSE,FALSE,7/5/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_12, 基礎醫學總論,-",6/26/2024,三,16:30,6/26/2024,17:20,FALSE,FALSE,7/5/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_13, 基礎醫學總論,-",6/27/2024,四,8:00,6/27/2024,8:50,FALSE,FALSE,7/6/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_14, 基礎醫學總論,-",6/27/2024,四,9:00,6/27/2024,9:50,FALSE,FALSE,7/6/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_15, 基礎醫學總論,-",6/27/2024,四,10:10,6/27/2024,11:00,FALSE,FALSE,7/6/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_16, 基礎醫學總論,-",6/27/2024,四,11:10,6/27/2024,12:00,FALSE,FALSE,7/6/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_13, 基礎醫學總論,-",6/27/2024,四,13:20,6/27/2024,14:10,FALSE,FALSE,7/6/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_14, 基礎醫學總論,-",6/27/2024,四,14:20,6/27/2024,15:10,FALSE,FALSE,7/6/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_15, 基礎醫學總論,-",6/27/2024,四,15:30,6/27/2024,16:20,FALSE,FALSE,7/6/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_16, 基礎醫學總論,-",6/27/2024,四,16:30,6/27/2024,17:20,FALSE,FALSE,7/6/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_17, 基礎醫學總論,-",6/28/2024,五,8:00,6/21/2024,8:50,FALSE,FALSE,6/30/2006,上午 07:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_18, 基礎醫學總論,-",6/28/2024,五,9:00,6/21/2024,9:50,FALSE,FALSE,6/30/2006,上午 08:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_19, 基礎醫學總論,-",6/28/2024,五,10:10,6/21/2024,11:00,FALSE,FALSE,6/30/2006,上午 09:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_20, 基礎醫學總論,-",6/28/2024,五,11:10,6/21/2024,12:00,FALSE,FALSE,6/30/2006,上午 10:55:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_17, 基礎醫學總論,-",6/28/2024,五,13:20,6/21/2024,14:10,FALSE,FALSE,6/30/2006,下午 01:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_18, 基礎醫學總論,-",6/28/2024,五,14:20,6/21/2024,15:10,FALSE,FALSE,6/30/2006,下午 02:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_19, 基礎醫學總論,-",6/28/2024,五,15:30,6/21/2024,16:20,FALSE,FALSE,6/30/2006,下午 03:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
+"[國考(選)]:國考_20, 基礎醫學總論,-",6/28/2024,五,16:30,6/21/2024,17:20,FALSE,FALSE,6/30/2006,下午 04:15:00,,,,,,FALSE,,,普通,,普通,93學年醫三課程,2,-
